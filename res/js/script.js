@@ -6,6 +6,12 @@ let individuals = [
 		affil: "Individual"
 	},
 	*/
+
+	{
+		name: "Gec Inmre",
+		url: "https://twitter.com/p0ck0s",
+		affil: "epic"
+	},
 	{
 		name: "Ashish Kumar",
 		url: "https://twitter.com/ashfame",
