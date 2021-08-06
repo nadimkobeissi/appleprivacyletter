@@ -7,6 +7,496 @@ let individuals = [
 	},
 	*/
 	{
+		name: "Romel Receno",
+		url: "https://github.com/cenovial",
+		affil: "Individual"
+	},
+    {
+		name: "Daniel M",
+		url: "https://github.com/DanielM07",
+		affil: "Individual"
+	},
+    {
+		name: "John Teixeira",
+		url: "https://github.com/johnnytex3",
+		affil: "Individual"
+	},
+    {
+		name: "Steve Chun",
+		url: "https://github.com/sleevin",
+		affil: "Individual"
+	},
+    {
+		name: "Lucas Forschler",
+		url: "https://github.com/lforschler",
+		affil: "Apple"
+	},
+    {
+		name: "Timothy Geddes",
+		url: "https://twitter.com/SSGHAMBUNS",
+		affil: "Individual"
+	},
+    {
+		name: "Jorge Escala",
+		url: "https://github.com/jescala",
+		affil: "Individual"
+	},
+    {
+		name: "Feross Aboukhadijeh",
+		url: "https://feross.org/",
+		affil: "Stanford University"
+	},
+    {
+		name: "Brent Garner",
+		url: "https://github.com/user9234739427",
+		affil: "Individual"
+	},
+    {
+		name: "Javier Ruiz-Soler",
+		url: "https://github.com/jaruizso",
+		affil: "Individual"
+	},
+    {
+		name: "Steven McGrath",
+		url: "https://github.com/StevenMcGrath",
+		affil: "Individual"
+	},
+    {
+		name: "David Ritchie",
+		url: "https://github.com/ppymdjr",
+		affil: "Individual"
+	},
+    {
+		name: "Keith Quinton",
+		url: "https://github.com/netboy2020",
+		affil: "Individual"
+	},
+    {
+		name: "Marcin Mikołajczak",
+		url: "https://pl.fediverse.pl/@mkljczk",
+		affil: "Individual"
+	},
+    {
+		name: "Kartik Dabas",
+		url: "https://github.com/kdabas03",
+		affil: "Individual"
+	},
+    {
+		name: "Félix Gasiaux",
+		url: "https://github.com/felixgasiaux",
+		affil: "Individual"
+	},
+    {
+		name: "Jake G.",
+		url: "https://github.com/jakegiorlando",
+		affil: "Individual"
+	},
+    {
+		name: "Jack Dishman",
+		url: "https://twitter.com/JackDishman",
+		affil: "Capsule Social"
+	},
+    {
+		name: "Eden",
+		url: "https://github.com/hartsindale",
+		affil: "Individual"
+	},
+    {
+		name: "Mason Lee",
+		url: "https://github.com/masonlee",
+		affil: "Individual"
+	},
+    {
+		name: "Tim Meyer",
+		url: "https://github.com/vospalenie",
+		affil: "Individual"
+	},
+    {
+		name: "Justin Chang",
+		url: "https://github.com/changj41",
+		affil: "Individual"
+	},
+    {
+		name: "Josh Beckham",
+		url: "https://github.com/jbeckham149",
+		affil: "Individual"
+	},
+    {
+		name: "Benjohn JJ Barnes",
+		url: "https://github.com/benjohnbarnes",
+		affil: "Individual"
+	},
+    {
+		name: "Sven",
+		url: "https://github.com/Svenny-G",
+		affil: "Individual"
+	},
+    {
+		name: "Florian Grade",
+		url: "https://twitter.com/crlxss",
+		affil: "Individual"
+	},
+    {
+		name: "Marc Barnholdt",
+		url: "https://github.com/mcb2001",
+		affil: "Individual"
+	},
+    {
+		name: "Alexander Simon",
+		url: "https://github.com/kushie0",
+		affil: "Individual"
+	},
+    {
+		name: "Jerrod Martin",
+		url: "https://github.com/jerrodmartin",
+		affil: "Individual"
+	},
+    {
+		name: "Avery Burdette",
+		url: "https://github.com/lennyburdette",
+		affil: "Individual"
+	},
+    {
+		name: "Dylan Sheffer",
+		url: "https://github.com/dylansheffer",
+		affil: "Individual"
+	},
+    {
+		name: "Richard Parker",
+		url: "https://github.com/rhparker7",
+		affil: "Individual"
+	},
+    {
+		name: "Joshua Solomon",
+		url: "https://github.com/joshnsolomon",
+		affil: "Individual"
+	},
+    {
+		name: "Brian Tong",
+		url: "https://github.com/brtong",
+		affil: "Individual"
+	},
+    {
+		name: "Caleb Waller",
+		url: "https://github.com/calebw99",
+		affil: "Individual"
+	},
+    {
+		name: "Martin Pohanka",
+		url: "https://github.com/mapass",
+		affil: "Individual"
+	},
+    {
+		name: "Max flores",
+		url: "https://github.com/Kcaz123",
+		affil: "Individual"
+	},
+    {
+		name: "Ryan Thomas",
+		url: "https://github.com/Casuallynoted",
+		affil: "Individual"
+	},
+    {
+		name: "Ryan Thomas",
+		url: "https://github.com/Casuallynoted",
+		affil: "Individual"
+	},
+    {
+		name: "Cameron Silber",
+		url: "https://github.com/cameronsilber",
+		affil: "University of California"
+	},
+    {
+		name: "Pascal Van Hecke",
+		url: "https://github.com/barbarosso",
+		affil: "Individual"
+	},
+    {
+		name: "Conan Chou",
+		url: "https://twitter.com/ConanChou",
+		affil: "Individual"
+	},
+    {
+		name: "Sky Doherty",
+		url: "https://github.com/skymakai",
+		affil: "Individual"
+	},
+    {
+		name: "Matt Woodruff",
+		url: "https://github.com/hardstriker",
+		affil: "Individual"
+	},
+    {
+		name: "Armando Miguel Garcia",
+		url: "https://github.com/armandomiguel",
+		affil: "Individual"
+	},
+    {
+		name: "Taylor Watson",
+		url: "https://github.com/TaylorWatson",
+		affil: "Individual"
+	},
+    {
+		name: "Matei-Alexandru Gardus",
+		url: "https://stormhub.io/",
+		affil: "Individual"
+	},
+    {
+		name: "Olivier Breton",
+		url: "https://github.com/oliv23",
+		affil: "Individual"
+	},
+    {
+		name: "Miles Teng-Levy",
+		url: "https://github.com/MilesTL",
+		affil: "Individual"
+	},
+    {
+		name: "Alexander Saar",
+		url: "https://github.com/solus-hq",
+		affil: "Individual"
+	},
+    {
+		name: "Nicola",
+		url: "https://github.com/serniko97",
+		affil: "Individual"
+	},
+    {
+		name: "Jarrett Coggin",
+		url: "https://github.com/ogjunkyard",
+		affil: "Individual"
+	},
+    {
+		name: "Tim Farrell",
+		url: "https://github.com/timster83",
+		affil: "Individual"
+	},
+    {
+		name: "Petar M",
+		url: "https://github.com/petaren",
+		affil: "Individual"
+	},
+    {
+		name: "Kenan Sulayman",
+		url: "https://sly.mn/",
+		affil: "SIGDEV LLC"
+	},
+    {
+		name: "Pavel Shirshov",
+		url: "https://twitter.com/shirshovp",
+		affil: "Individual"
+	},
+    {
+		name: "Issac Merkle",
+		url: "https://github.com/pootietang",
+		affil: "Individual"
+	},
+    {
+		name: "Jane Jeon",
+		url: "https://github.com/JaneJeon",
+		affil: "Bloomberg LP"
+	},
+    {
+		name: "Michael Martin",
+		url: "https://github.com/justplainboulevard",
+		affil: "Individual"
+	},
+    {
+		name: "Johnny",
+		url: "https://github.com/JohnnyH2000",
+		affil: "Individual"
+	},
+    {
+		name: "Biro Mate",
+		url: "https://github.com/alsesb",
+		affil: "Individual"
+	},
+    {
+		name: "Ian Griffiths",
+		url: "https://github.com/6thimage",
+		affil: "Individual"
+	},
+    {
+		name: "Brian Holden",
+		url: "https://github.com/brnagi",
+		affil: "Individual"
+	},
+    {
+		name: "Leonardo Otto",
+		url: "https://github.com/leonardootto",
+		affil: "Individual"
+	},
+    {
+		name: "Jesse Roddy",
+		url: "https://github.com/jroddy187",
+		affil: "Individual"
+	},
+    {
+		name: "Satvir Sandhu",
+		url: "https://www.satvir.ca/",
+		affil: "Individual"
+	},
+    {
+		name: "Vahagn Mkrtchyan",
+		url: "https://twitter.com/iCyber0n",
+		affil: "Individual"
+	},
+    {
+		name: "Bipin Thomas",
+		url: "https://github.com/TechieTom",
+		affil: "Individual"
+	},
+    {
+		name: "Anthony Maki",
+		url: "https://anthony.app/",
+		affil: "Software Engineer"
+	},
+    {
+		name: "Arjan de Boer",
+		url: "https://github.com/Arie73",
+		affil: "Journalist"
+	},
+    {
+		name: "Anne Weine",
+		url: "https://github.com/Frosne",
+		affil: "Individual"
+	},
+    {
+		name: "Lewis O’Connor",
+		url: "https://github.com/lewwiscodes",
+		affil: "Individual"
+	},
+    {
+		name: "Lewis O’Connor",
+		url: "https://github.com/lewwiscodes",
+		affil: "Individual"
+	},
+    {
+		name: "Chris Peikert",
+		url: "https://web.eecs.umich.edu/~cpeikert/",
+		affil: "University of Michigan"
+	},
+    {
+		name: "Nishant Lal",
+		url: "https://github.com/njl0824",
+		affil: "Individual"
+	},
+    {
+		name: "Robert Johnson",
+		url: "https://github.com/robbiegd",
+		affil: "Individual"
+	},
+    {
+		name: "Joel Lawrence Tucci",
+		url: "https://github.com/joeltucci",
+		affil: "Individual"
+	},
+    {
+		name: "Petr Zámečník",
+		url: "https://github.com/petrzamecnik",
+		affil: "Individual"
+	},
+    {
+		name: "Tobias Schäffel",
+		url: "https://github.com/tobiornot",
+		affil: "Individual"
+	},
+    {
+		name: "Mike Lee",
+		url: "https://twitter.com/mikeleewrites",
+		affil: "Individual"
+	},
+    {
+		name: "Carlos Alberto Santos",
+		url: "https://twitter.com/kaarlows",
+		affil: "Individual"
+	},
+    {
+		name: "Carlos Alberto",
+		url: "https://twitter.com/kaarlows",
+		affil: "Individual"
+	},
+    {
+		name: "Khristian Alexander Schönrock",
+		url: "https://github.com/derkosak",
+		affil: "Individual"
+	},
+    {
+		name: "Alex Smith",
+		url: "https://github.com/tradesmanhelix",
+		affil: "Software Developer"
+	},
+    {
+		name: "Peter Ludwig",
+		url: "https://github.com/peterdanludwig",
+		affil: "Individual"
+	},
+    {
+		name: "Danil R.",
+		url: "https://github.com/drulyov",
+		affil: "Individual"
+	},
+    {
+		name: "Wessel Moes",
+		url: "https://github.com/Sxooter7je",
+		affil: "Individual"
+	},
+    {
+		name: "Markus Rudel",
+		url: "https://twitter.com/rudelm",
+		affil: "Software developer"
+	},
+    {
+		name: "Alek Broman",
+		url: "https://github.com/polymods",
+		affil: "Individual"
+	},
+    {
+		name: "Wen Zhan",
+		url: "https://mrzz.cc",
+		affil: "Individual"
+	},
+    {
+		name: "Naresh Narayan",
+		url: "https://github.com/nareshnarayan19",
+		affil: "Twitter"
+	},
+    {
+		name: "Kai",
+		url: "https://github.com/neko-kai",
+		affil: "Individual"
+	},
+    {
+		name: "Frankie Sparkes",
+		url: "https://github.com/SPARKESFRANKIE66",
+		affil: "Individual"
+	},
+    {
+		name: "William Huddleston",
+		url: "https://github.com/Connor9220",
+		affil: "Individual"
+	},
+    {
+		name: "Mark Ferderbar",
+		url: "https://github.com/mferderb",
+		affil: "Individual"
+	},
+    {
+		name: "Yufei Liu",
+		url: "https://github.com/hnws",
+		affil: "Individual"
+	},
+    {
+		name: "Nick",
+		url: "https://twitter.com/zudo",
+		affil: "Individual"
+	},
+    {
+		name: "Ness C.",
+		url: "https://github.com/strixus",
+		affil: "Individual"
+	},
+	{
 		name: "Puya Daravi",
 		url: "https://github.com/daravi",
 		affil: "Individual"
