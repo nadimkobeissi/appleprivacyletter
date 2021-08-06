@@ -1046,6 +1046,11 @@ let individuals = [
 		url: "https://julianmair.com",
 		affil: "Individual"
 	},
+	{
+		name: "William Gibson",
+		url: "https://tired.io",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
