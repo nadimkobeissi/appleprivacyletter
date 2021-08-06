@@ -761,6 +761,11 @@ let individuals = [
 		url: "https://github.com/kessl",
 		affil: "Individual"
 	},
+	{
+		name: "Kevin Grant",
+		url: "https://github.com/kevinpgrant",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
