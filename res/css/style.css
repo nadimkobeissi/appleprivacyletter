@@ -59,6 +59,7 @@ div#main div#letter blockquote {
 	padding: 20px;
 	border-radius: 10px;
 	font-style: italic;
+	text-align: left;
 }
 
 div#main div#footer {
