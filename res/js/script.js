@@ -826,6 +826,11 @@ let individuals = [
 		url: "https://github.com/tarsierscripter",
 		affil: "University of Waterloo"
 	},
+	{
+		name: "Daniel Dong",
+		url: "https://github.com/elephi",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
