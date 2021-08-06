@@ -9,32 +9,32 @@ let individuals = [
 	{
 		name: "Jonathan Sundqvist",
 		url: "https://github.com/jonathan-s",
-		affil: "Consumer"
+		affil: "Individual"
 	},
 	{
 		name: "Manuel Carvalho",
 		url: "https://github.com/CaptainWinter",
-		affil: "Consumer"
+		affil: "Individual"
 	},
 	{
 		name: "Tobias Frauenschläger",
 		url: "https://github.com/Frauschi",
-		affil: "Consumer"
+		affil: "Individual"
 	},
 	{
 		name: "Jan Weiß",
 		url: "https://github.com/JanX2",
-		affil: "Consumer"
+		affil: "Individual"
 	},
 	{
 		name: "William Davis",
 		url: "https://fosstodon.org/@awesomesheep48",
-		affil: "Consumer"
+		affil: "Individual"
 	},
 	{
 		name: "Brandon Cormier",
 		url: "https://github.com/BrandonCormierTR",
-		affil: "Consumer"
+		affil: "Individual"
 	},
 	{
 		name: "Olaf Flebbe",
