@@ -1381,6 +1381,11 @@ let individuals = [
 		url: "https://jeff.yunes.us",
 		affil: "Individual"
 	},
+	{
+		name: "Peter Baumärtner",
+		url: "https://twitter.com/pbaumi",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
