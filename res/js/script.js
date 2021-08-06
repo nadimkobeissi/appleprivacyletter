@@ -1556,6 +1556,11 @@ let individuals = [
 		url: "https://github.com/ngallows",
 		affil: "Individual"
 	},
+	{
+		name: "Camille",
+		url: "https://github.com/cvmille",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
