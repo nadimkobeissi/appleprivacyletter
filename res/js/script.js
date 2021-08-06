@@ -1151,6 +1151,11 @@ let individuals = [
 		url: "https://github.com/mathewjohn242",
 		affil: "Individual"
 	},
+	{
+		name: "Martin Erpicum",
+		url: "https://github.com/tintamarre",
+		affil: "University of Liège, Belgium / Mesylab Srl"
+	},
 ]
 
 window.addEventListener("load", () => {
