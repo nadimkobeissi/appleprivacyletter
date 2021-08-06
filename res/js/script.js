@@ -766,6 +766,11 @@ let individuals = [
 		url: "https://github.com/kevinpgrant",
 		affil: "Individual"
 	},
+	{
+		name: "Filipp Roos",
+		url: "https://go.uniwue.de/roos",
+		affil: "University of Würzburg"
+	},
 ]
 
 window.addEventListener("load", () => {
