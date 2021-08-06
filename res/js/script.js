@@ -1216,6 +1216,11 @@ let individuals = [
 		url: "https://twitter.com/bryceamcdaniel",
 		affil: "Individual"
 	},
+	{
+		name: "Fraser Hughes",
+		url: "https://github.com/theOGdelphipascal",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
