@@ -9,7 +9,7 @@ let individuals = [
 	{
 		name: "Matthew Kezer",
 		url: "https://mattkezer.com",
-		affil: "User"
+		affil: "Individual"
 	},
 	{
 		name: "Hanno Klomp",
