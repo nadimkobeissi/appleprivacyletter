@@ -1116,6 +1116,11 @@ let individuals = [
 		url: "https://dragonscave.space/@Mayana",
 		affil: "Individual"
 	},
+	{
+		name: "René Pirringer",
+		url: "https://github.com/renep",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
