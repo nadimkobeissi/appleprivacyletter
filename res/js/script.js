@@ -911,6 +911,11 @@ let individuals = [
 		url: "https://twitter.com/akclr",
 		affil: "Individual"
 	},
+	{
+		name: "C. Fielder",
+		url: "https://github.com/CamFields",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
