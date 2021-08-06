@@ -521,6 +521,11 @@ let individuals = [
 		url: "https://twitter.com/andreanepori",
 		affil: "Individual"
 	},
+	{
+		name: "Brahma Dev",
+		url: "https://instantkhabar.com",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
