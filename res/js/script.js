@@ -1201,6 +1201,11 @@ let individuals = [
 		url: "https://twitter.com/jonjensen0",
 		affil: "Individual"
 	},
+	{
+		name: "Axel Merk",
+		url: "https://github.com/agmerk",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
