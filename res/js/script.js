@@ -791,6 +791,11 @@ let individuals = [
 		url: "https://twitter.com/c_pellegrino",
 		affil: "Former Homebrew Maintainer"
 	},
+	{
+		name: "Jimi Viita-aho",
+		url: "https://jako.social/@jimbo",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
