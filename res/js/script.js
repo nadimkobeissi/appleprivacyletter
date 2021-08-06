@@ -1011,6 +1011,11 @@ let individuals = [
 		url: "https://mrlc.dev",
 		affil: "Individual"
 	},
+	{
+		name: "David Caulfield",
+		url: "https://www.dcaulfield.com",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
