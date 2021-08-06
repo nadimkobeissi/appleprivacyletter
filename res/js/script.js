@@ -1471,6 +1471,11 @@ let individuals = [
 		url: "https://github.com/cosmicdance",
 		affil: "Individual"
 	},
+	{
+		name: "Evelyn Osman",
+		url: "https://chipnick.com",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
