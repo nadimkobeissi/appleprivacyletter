@@ -552,7 +552,7 @@ let individuals = [
 		affil: "Individual"
 	},
 	{
-		name: "Felipe Calleia",
+		name: "Fellipe Calleia",
 		url: "https://calleia.com.br",
 		affil: "Individual"
 	},
