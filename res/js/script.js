@@ -1596,6 +1596,11 @@ let individuals = [
 		url: "https://twitter.com/matthew_d_green",
 		affil: "Johns Hopkins University"
 	},
+	{
+		name: "J. Alex Halderman",
+		url: "https://jhalderm.com",
+		affil: "University of Michigan"
+	},
 ]
 
 window.addEventListener("load", () => {
