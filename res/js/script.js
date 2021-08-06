@@ -731,6 +731,11 @@ let individuals = [
 		url: "https://twitter.com/kaytwo",
 		affil: "University of Illinois at Chicago"
 	},
+	{
+		name: "Ryan",
+		url: "https://github.com/rysto3",
+		affil: "Cybersecurity Analyst"
+	},
 ]
 
 window.addEventListener("load", () => {
