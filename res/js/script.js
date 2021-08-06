@@ -1006,6 +1006,11 @@ let individuals = [
 		url: "https://www.strml.net",
 		affil: "Individual"
 	},
+	{
+		name: "Max Christman",
+		url: "https://mrlc.dev",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
