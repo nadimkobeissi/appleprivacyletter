@@ -551,6 +551,11 @@ let individuals = [
 		url: "https://twitter.com/venngar_0011",
 		affil: "Individual"
 	},
+	{
+		name: "Felipe Calleia",
+		url: "https://calleia.com.br",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
