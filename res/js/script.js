@@ -1191,6 +1191,11 @@ let individuals = [
 		url: "https://github.com/ThumbTacc",
 		affil: "Individual"
 	},
+	{
+		name: "Nick Brook",
+		url: "https://github.com/",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
