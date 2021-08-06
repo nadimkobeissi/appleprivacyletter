@@ -3842,7 +3842,7 @@ let individuals = [
 		expert: false
 	},
 	{
-		name: "Tobie Langdel",
+		name: "Tobie Langel",
 		url: "https://twitter.com/tobie",
 		affil: "Individual",
 		expert: false
