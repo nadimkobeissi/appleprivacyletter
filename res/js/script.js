@@ -631,7 +631,11 @@ let individuals = [
 		url: "https://github.com/Hes-Siemelink",
 		affil: "Individual"
 	},
-]
+	{
+		name: "Aaron Alexander",
+		url: "https://twitter.com/drunknbass",
+		affil: "Individual"
+	},
 
 window.addEventListener("load", () => {
 	const olIndividuals = document.getElementById("individuals")
