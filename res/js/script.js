@@ -8,7 +8,7 @@ let individuals = [
 	*/
 	{
 		name: "John Michael Kawooya",
-		url: "hhttps://github.com/jmkawooya",
+		url: "https://github.com/jmkawooya",
 		affil: "Individual"
 	},
 	{
