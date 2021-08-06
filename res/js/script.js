@@ -449,7 +449,7 @@ let individuals = [
 		name: "Chris Peikert",
 		url: "https://web.eecs.umich.edu/~cpeikert/",
 		affil: "University of Michigan",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Nishant Lal",
@@ -1703,7 +1703,7 @@ let individuals = [
 		name: "Nadim Kobeissi",
 		url: "https://nadim.computer",
 		affil: "Capsule Social",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Parth Kohli",
@@ -1835,7 +1835,7 @@ let individuals = [
 		name: "Léo Perrin",
 		url: "https://who.paris.inria.fr/Leo.Perrin/",
 		affil: "Inria",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Pino Pinoli",
@@ -3467,7 +3467,7 @@ let individuals = [
 		name: "Andrew Kerr-Thompson",
 		url: "https://github.com/kerrhyphen",
 		affil: "City University of New York",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Andrew Aldridge",
