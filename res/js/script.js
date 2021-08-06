@@ -726,6 +726,11 @@ let individuals = [
 		url: "https://johndbeatty.com",
 		affil: "Individual"
 	},
+	{
+		name: "Chris Kanich",
+		url: "https://twitter.com/kaytwo",
+		affil: "University of Illinois at Chicago"
+	},
 ]
 
 window.addEventListener("load", () => {
