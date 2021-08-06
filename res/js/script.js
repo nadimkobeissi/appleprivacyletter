@@ -100,6 +100,8 @@ let individuals = [
 		name: "Francisco Donoso",
 		url: "https://twitter.com/francisckrs",
 		affil: "Security Professional"
+	},
+	{
 		name: "Edward Snowden",
 		url: "https://freedom.press",
 		affil: "Freedom of the Press Foundation"
