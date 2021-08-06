@@ -1572,8 +1572,8 @@ let individuals = [
 		affil: "Individual"
 	},
 	{
-		name: "Avi Prashnan",
-		url: "https://aviprashnan.com",
+		name: "Avi Parshan",
+		url: "https://www.aviparshan.com",
 		affil: "Individual"
 	},
 	{
