@@ -1,0 +1,66 @@
+body {
+	font-family: "Open Sans";
+	font-size: 16px;
+	color: #111;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: "Georama";
+}
+
+div#main {
+	width: 90%;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+div#main div#heading {
+	font-size: 0.95em;
+	display: block;
+	overflow: hidden;
+	padding: 10px;
+}
+
+div#main div#heading img#logo {
+	width: 18vw;
+	height: auto;
+	border-radius: 4vw;
+	border: 5px solid #FAFAFA;
+	box-shadow: 0 0 10px rgba(50, 50, 50, 0.2);
+	float: left;
+	margin-right: 20px;
+	background-color: #FFF;
+}
+
+div#main div#heading h1 {
+	margin-top: 0px;
+}
+
+div#main div#heading h2 {
+	font-weight: normal;
+}
+
+div#main div#letter {
+	display: block;
+	margin: 0 auto;
+	width: 98%;
+	text-align: justify;
+	line-height: 1.7em;
+}
+
+div#main div#letter blockquote {
+	width: 80%;
+	margin: 0 auto;
+	color: #555;
+	font-family: "STIX Two Text";
+	font-size: 1.2em;
+	box-shadow: 0 0 5px rgba(50, 50, 50, 0.2);
+	padding: 20px;
+	border-radius: 10px;
+	font-style: italic;
+}
+
+div#main div#footer {
+	border-top: 1px solid #CCC;
+	margin-top: 40px;
+}
