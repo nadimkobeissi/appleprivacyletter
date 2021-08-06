@@ -1511,6 +1511,11 @@ let individuals = [
 		url: "https://github.com/nnhubbard",
 		affil: "Individual"
 	},
+	{
+		name: "Semisol",
+		url: "https://semisol.dev",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
