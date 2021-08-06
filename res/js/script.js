@@ -481,6 +481,11 @@ let individuals = [
 		url: "https://nextlab.net",
 		affil: "Individual"
 	},
+	{
+		name: "Paul Feakins",
+		url: "https://github.com/paulfeakins",
+		affil: "Developer"
+	},
 ]
 
 window.addEventListener("load", () => {
