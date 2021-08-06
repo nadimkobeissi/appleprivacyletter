@@ -846,6 +846,11 @@ let individuals = [
 		url: "https://mikka.is",
 		affil: "Myla Medical Ethics Research Trust"
 	},
+	{
+		name: "Dominick DeVito",
+		url: "https://github.com/dcdevito",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
