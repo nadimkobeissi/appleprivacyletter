@@ -796,6 +796,11 @@ let individuals = [
 		url: "https://jako.social/@jimbo",
 		affil: "Individual"
 	},
+	{
+		name: "Tianyu Li",
+		url: "https://github.com/ty-cs",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
