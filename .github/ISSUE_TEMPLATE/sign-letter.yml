@@ -1,0 +1,21 @@
+name: Sign Letter
+description: Sign the Apple Privacy Letter.
+title: "[SIGN] Your Name Here"
+labels: signature
+assignees: nadimkobeissi
+body:
+ - type: input
+   attributes:
+     label: Name
+   validations:
+     required: true
+ - type: input
+   attributes:
+     label: Affiliation
+ - type: input
+   attributes:
+     label: Website/Twitter/etc.
+ - type: checkboxes
+   attributes:
+     options:
+       - label: I am signing as an organization.
