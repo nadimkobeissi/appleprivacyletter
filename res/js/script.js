@@ -1062,8 +1062,8 @@ let individuals = [
 		affil: "Individual"
 	},
 	{
-		name: "Colin Hayhurst",
-		url: "https://github.com/",
+		name: "Ethan Pacleb",
+		url: "https://github.com/EPACInc",
 		affil: "Individual"
 	},
 ]
