@@ -62,6 +62,10 @@ div#main div#letter blockquote {
 	text-align: left;
 }
 
+div#main div#signatures ol#individuals li.expert {
+	font-weight: bold;
+}
+
 div#main div#footer {
 	border-top: 1px solid #CCC;
 	margin-top: 40px;
