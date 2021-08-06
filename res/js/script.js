@@ -7,29 +7,34 @@ let individuals = [
 	},
 	*/
 	{
+		name: "Bogdan Weidmann",
+		url: "https://github.com/nrgbodya",
+		affil: "Individual"
+	},
+	{
 		name: "Mark Scriffiny",
 		url: "https://github.com/scriff",
-		affil: "Customer"
+		affil: "Individual"
 	},
 	{
 		name: "Jaryd Madlena",
 		url: "https://github.com/jmadlena",
-		affil: "Customer"
+		affil: "Individual"
 	},
 	{
 		name: "Nishit",
 		url: "https://github.com/nishit-v",
-		affil: "Customer"
+		affil: "Individual"
 	},
 	{
 		name: "Divin",
 		url: "https://github.com/divin",
-		affil: "Customer"
+		affil: "Individual"
 	},
 	{
 		name: "Pedro D.",
 		url: "https://github.com/DemolderP",
-		affil: "Customer"
+		affil: "Individual"
 	},
 	{
 		name: "Scott Bonds",
