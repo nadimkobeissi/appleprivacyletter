@@ -7,6 +7,41 @@ let individuals = [
 	},
 	*/
 	{
+		name: "Leonard Erickson",
+		url: "https://github.com/eggman63",
+		affil: "Individual"
+	},
+	{
+		name: "Henry Li",
+		url: "https://github.com/henryli17",
+		affil: "Individual"
+	},
+	{
+		name: "Mehrab Daemi",
+		url: "https://github.com/MehrabD123",
+		affil: "Individual"
+	},
+	{
+		name: "Petesku",
+		url: "https://github.com/peteski22",
+		affil: "Individual"
+	},
+	{
+		name: "Justin",
+		url: "https://github.com/justingirgis",
+		affil: "Individual"
+	},
+	{
+		name: "John Shewchuk",
+		url: "https://github.com/nellff",
+		affil: "Apple Investor"
+	},
+	{
+		name: "Bennett Rieves",
+		url: "https://github.com/nellff",
+		affil: "Individual"
+	},
+	{
 		name: "Denis Sikorsky",
 		url: "https://github.com/sikorskydenis",
 		affil: "Individual"
