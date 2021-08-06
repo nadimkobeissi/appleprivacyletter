@@ -440,12 +440,6 @@ let individuals = [
 		expert: false
 	},
 	{
-		name: "Lewis O’Connor",
-		url: "https://github.com/lewwiscodes",
-		affil: "Individual",
-		expert: false
-	},
-	{
 		name: "Chris Peikert",
 		url: "https://web.eecs.umich.edu/~cpeikert/",
 		affil: "University of Michigan",
