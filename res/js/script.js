@@ -7,8 +7,8 @@ let individuals = [
 	},
 	*/
 	{
-		name: "Bogdan Weidmann",
-		url: "https://github.com/nrgbodya",
+		name: "Jeremy Lawrence",
+		url: "https://github.com/jjl-genemod",
 		affil: "Individual"
 	},
 	{
