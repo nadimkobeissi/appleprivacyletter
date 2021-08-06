@@ -1001,6 +1001,11 @@ let individuals = [
 		url: "https://github.com/iComputerGeek101",
 		affil: "Individual"
 	},
+	{
+		name: "Samuel Reed",
+		url: "https://www.strml.net",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
