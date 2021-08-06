@@ -691,6 +691,11 @@ let individuals = [
 		url: "https://github.com/Algebrazebra",
 		affil: "Individual"
 	},
+	{
+		name: "M. Dawson",
+		url: "https://github.com/DifferentComputers",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
