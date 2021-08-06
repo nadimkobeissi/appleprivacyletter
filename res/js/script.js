@@ -7,6 +7,11 @@ let individuals = [
 	},
 	*/
 	{
+		name: "John Seitz",
+		url: "https://seitzlabs.com/",
+		affil: "Individual"
+	},
+	{
 		name: "Kamiel Straatman",
 		url: "https://github.com/floresboy",
 		affil: "Individual"
