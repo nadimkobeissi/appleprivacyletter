@@ -961,6 +961,11 @@ let individuals = [
 		url: "https://twitter.com/speedlimiter",
 		affil: "Individual"
 	},
+	{
+		name: "Bas van Ginkel",
+		url: "https://github.com/ginkelb",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
