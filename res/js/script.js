@@ -771,6 +771,11 @@ let individuals = [
 		url: "https://go.uniwue.de/roos",
 		affil: "University of Würzburg"
 	},
+	{
+		name: "Enes Senel",
+		url: "https://twitter.com/nssenel",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
