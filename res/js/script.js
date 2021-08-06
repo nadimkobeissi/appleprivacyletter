@@ -1156,6 +1156,11 @@ let individuals = [
 		url: "https://github.com/tintamarre",
 		affil: "University of Liège, Belgium / Mesylab Srl"
 	},
+	{
+		name: "Anneliese Wilson",
+		url: "https://github.com/penguininatutu",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
