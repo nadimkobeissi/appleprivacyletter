@@ -2826,7 +2826,6 @@ let individuals = [
 		url: "https://jhalderm.com",
 		affil: "University of Michigan"
 	},
-	let individuals = [
 		{
 			name: "Ness C.",
 			url: "https://github.com/strixus",
@@ -3037,7 +3036,6 @@ let individuals = [
 			url: "https://twitter.com/tobie",
 			affil: "Individual"
 		},
-	]
 ]
 
 window.addEventListener("load", () => {
