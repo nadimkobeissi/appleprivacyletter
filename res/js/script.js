@@ -456,6 +456,11 @@ let individuals = [
 		url: "https://mitchellcash.com",
 		affil: "Consumer"
 	},
+	{
+		name: "Bren Larcom",
+		url: "https://github.com/sparagi",
+		affil: "Tall Order Software"
+	},
 ]
 
 window.addEventListener("load", () => {
