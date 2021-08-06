@@ -686,6 +686,11 @@ let individuals = [
 		url: "https://github.com/ostwi",
 		affil: "Software Engineer"
 	},
+	{
+		name: "Maximilian Zellinger",
+		url: "https://github.com/Algebrazebra",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
