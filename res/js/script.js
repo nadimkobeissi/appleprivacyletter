@@ -806,6 +806,11 @@ let individuals = [
 		url: "https://twitter.com/jayjayHales",
 		affil: "Individual"
 	},
+	{
+		name: "Anthony Scemama",
+		url: "https://github.com/scemama",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
