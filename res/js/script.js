@@ -991,6 +991,11 @@ let individuals = [
 		url: "https://github.com/BWStearns",
 		affil: "Individual"
 	},
+	{
+		name: "Sassan Haradji",
+		url: "https://github.com/sassanh",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
