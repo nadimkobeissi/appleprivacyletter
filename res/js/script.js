@@ -811,6 +811,11 @@ let individuals = [
 		url: "https://github.com/scemama",
 		affil: "Individual"
 	},
+	{
+		name: "Patrick Gremo",
+		url: "https://github.com/pgremo",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
