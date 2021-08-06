@@ -786,6 +786,11 @@ let individuals = [
 		url: "https://twitter.com/chadnehemiah",
 		affil: "Individual"
 	},
+	{
+		name: "Claudia Pellegrino",
+		url: "https://twitter.com/c_pellegrino",
+		affil: "Former Homebrew Maintainer"
+	},
 ]
 
 window.addEventListener("load", () => {
