@@ -1,0 +1,455 @@
+let individuals = [
+	{
+		name: "Eren Asena",
+		url: "https://github.com/erenasena",
+		affil: "Individual"
+	},
+	{
+		name: "Yusef Aslam",
+		url: "https://gitlab.com/yusi-01",
+		affil: "Consumer"
+	},
+	{
+		name: "Aral Balkan",
+		url: "https://ar.al",
+		affil: "Individual"
+	},
+	{
+		name: "Marco Barulli",
+		url: "https://marco.barulli.it",
+		affil: "Capsule Social"
+	},
+	{
+		name: "Adam Bellinson",
+		url: "https://twitter.com/djthread",
+		affil: "Consumer"
+	},
+	{
+		name: "Eli Ben-Sasson",
+		url: "https://twitter.com/elibensasson",
+		affil: "StarkWare"
+	},
+	{
+		name: "Nicolas Boulet",
+		url: "https://github.com/nblavoie",
+		affil: "Individual"
+	},
+	{
+		name: "Jochen Breuer",
+		url: "https://twitter.com/mr_brejoc",
+		affil: "Individual"
+	},
+	{
+		name: "Mario Burkhardt",
+		url: "https://twitter.com/moburkhardt",
+		affil: "Individual"
+	},
+	{
+		name: "Till Carlos",
+		url: "https://twitter.com/till_carlos",
+		affil: "Software Engineer"
+	},
+	{
+		name: "Sebastian-Mihai Cergã",
+		url: "https://github.com/Sebastian-Cerga",
+		affil: "Individual"
+	},
+	{
+		name: "Katarzyna Chojecka",
+		url: "https://github.com/chojesia",
+		affil: "University of Warsaw"
+	},
+	{
+		name: "Paweł Chwała",
+		url: "https://github.com/cepe",
+		affil: "Individual"
+	},
+	{
+		name: "Kenn Costales",
+		url: "https://monolithgrowth.com",
+		affil: "Customer"
+	},
+	{
+		name: "Mathias Dalheimer",
+		url: "https://github.com/gonium",
+		affil: "Fraunhofer Institute for Industrial Mathematics"
+	},
+	{
+		name: "Dic",
+		url: "https://github.com/dic1911",
+		affil: "Individual"
+	},
+	{
+		name: "Mark Diekhans",
+		url: "https://github.com/diekhans",
+		affil: "UCSC"
+	},
+	{
+		name: "Allen Ding",
+		url: "https://twitter.com/alding",
+		affil: "Customer"
+	},
+	{
+		name: "Riccardo Di Virgilio",
+		url: "https://github.com/riccardodivirgilio",
+		affil: "Individual"
+	},
+	{
+		name: "Craig James Duffy",
+		url: "https://github.com/CraigJDuffy",
+		affil: "Individual"
+	},
+	{
+		name: "Ludvig Ericson",
+		url: "https://www.kth.se",
+		affil: "KTH Royal Institute of Technology"
+	},
+	{
+		name: "Jérémie Fontana",
+		url: "https://jfontana.fr",
+		affil: "Individual"
+	},
+	{
+		name: "Jason Fry",
+		url: "https://github.com/JasonMFry",
+		affil: "Individual"
+	},
+	{
+		name: "Stjepan Golemac",
+		url: "https://sgolem.com",
+		affil: "Customer"
+	},
+	{
+		name: "Tom Graupner",
+		url: "https://tomgraupner.de",
+		affil: "Software Developer and Consumer"
+	},
+	{
+		name: "John Gregorio",
+		url: "https://github.com/jgreg728",
+		affil: "Individual"
+	},
+	{
+		name: "David Ham",
+		url: "https://twitter.com/davidham_actual",
+		affil: "Individual"
+	},
+	{
+		name: "Niko Heikkil",
+		url: "https://nikoheikkila.fi",
+		affil: "Individual"
+	},
+	{
+		name: "Jonathan Jenne",
+		url: "https://inhji.de",
+		affil: "Individual"
+	},
+	{
+		name: "Kurt Jensen",
+		url: "https://twitter.com/0x6b757274",
+		affil: "Security Analyst"
+	},
+	{
+		name: "Mikael Jergefelt",
+		url: "https://librarian.dev",
+		affil: "Individual"
+	},
+	{
+		name: "Gabriel Jones",
+		url: "https://github.com/gtjones97",
+		affil: "Customer"
+	},
+	{
+		name: "Timothée Julien",
+		url: "https://timotheejulien.com",
+		affil: "Consumer"
+	},
+	{
+		name: "Jeremy Kahn",
+		url: "https://twitter.com/jeremyckahn",
+		affil: "Customer"
+	},
+	{
+		name: "Roman Kastusik",
+		url: "https://github.com/Roman-Ka",
+		affil: "Customer"
+	},
+	{
+		name: "Jostein Kjønigsen",
+		url: "https://jostein.kjonigsen.net",
+		affil: "Individual"
+	},
+	{
+		name: "Duong Tam Kien",
+		url: "https://github.com/taniki",
+		affil: "Individual"
+	},
+	{
+		name: "Nadim Kobeissi",
+		url: "https://nadim.computer",
+		affil: "Capsule Social"
+	},
+	{
+		name: "Parth Kohli",
+		url: "https://twitter.com/kohllision",
+		affil: "Individual"
+	},
+	{
+		name: "Christian Kruse",
+		url: "https://wwwtech.de/",
+		affil: "Individual"
+	},
+	{
+		name: "Bernd Kunze",
+		url: "https://github.com/bk42327",
+		affil: "Individual"
+	},
+	{
+		name: "Marquis Kurt",
+		url: "https://marquiskurt.net",
+		affil: "Consumer"
+	},
+	{
+		name: "Jake Levitt",
+		url: "https://github.com/jlevitt",
+		affil: "Individual"
+	},
+	{
+		name: "Yehuda Lindell",
+		url: "https://github.com/ylindell",
+		affil: "Bar-Ilan University"
+	},
+	{
+		name: "N. Joshua Madan",
+		url: "https://github.com/njmadan",
+		affil: "Individual"
+	},
+	{
+		name: "Ali Makki",
+		url: "https://github.com/alimakki",
+		affil: "Individual"
+	},
+	{
+		name: "Barney Mannerings",
+		url: "https://twitter.com/barnabee",
+		affil: "Vega"
+	},
+	{
+		name: "Marti Markov",
+		url: "https://github.com/martimarkov",
+		affil: "Individual"
+	},
+	{
+		name: "George W. Maschke",
+		url: "https://antipolygraph.org",
+		affil: "Individual"
+	},
+	{
+		name: "Hector Martin",
+		url: "https://twitter.com/marcan42",
+		affil: "Individual"
+	},
+	{
+		name: "Lúcás C. Meier",
+		url: "https://cronokirby.com",
+		affil: "Switzerland"
+	},
+	{
+		name: "Daniel-Andrei Minca",
+		url: "https://dminca.github.io",
+		affil: "Individual"
+	},
+	{
+		name: "Rogelio Morell",
+		url: "https://github.com/molekilla",
+		affil: "IFESA"
+	},
+	{
+		name: "Matteo Navacci",
+		url: "https://twitter.com/mrk4m1",
+		affil: "Privacy Network"
+	},
+	{
+		name: "Johan Nordberg",
+		url: "https://johan-nordberg.com",
+		affil: "Individual"
+	},
+	{
+		name: "Cedric Paill",
+		url: "https://twitter.com/ced303",
+		affil: "Individual"
+	},
+	{
+		name: "Christos Panagiotakopoulos",
+		url: "https://chrispanag.com",
+		affil: "Capsule Social"
+	},
+	{
+		name: "Duncan Paterson",
+		url: "https://github.com/duncdrum",
+		affil: "University of Freiburg"
+	},
+	{
+		name: "David Peach",
+		url: "https://davidpeach.co.uk",
+		affil: "Individual"
+	},
+	{
+		name: "Léo Perrin",
+		url: "https://who.paris.inria.fr/Leo.Perrin/",
+		affil: "Inria"
+	},
+	{
+		name: "Pino Pinoli",
+		url: "https://github.com/pinoli",
+		affil: "Individual"
+	},
+	{
+		name: "Scott Preston",
+		url: "https://github.com/sepreston",
+		affil: "Individual"
+	},
+	{
+		name: "Maël Primet",
+		url: "https://github.com/maelp",
+		affil: "Customer",
+	},
+	{
+		name: "Darren Rambaud",
+		url: "https://twitter.com/duabm4r",
+		affil: "Individual"
+	},
+	{
+		name: "Alexander Rodionov",
+		url: "https://tandav.github.io",
+		affil: "Individual"
+	},
+	{
+		name: "Max Schaefer",
+		url: "https://github.com/maxexcloo",
+		affil: "Individual"
+	},
+	{
+		name: "Sem Schilder",
+		url: "https://twitter.com/xvilo",
+		affil: "Customer"
+	},
+	{
+		name: "Jannis Andrija Schnitzer",
+		url: "https://jannis.schnitzer.im/",
+		affil: "Individual"
+	},
+	{
+		name: "Tjerand Silde",
+		url: "https://tjerandsilde.no",
+		affil: "Norwegian University of Science and Technology"
+	},
+	{
+		name: "Benjamin Siranosian",
+		url: "https://bsiranosian.com",
+		affil: "Customer"
+	},
+	{
+		name: "Ryan Sobol",
+		url: "https://github.com/ryansobol",
+		affil: "Individual"
+	},
+	{
+		name: "Ivan Stamenkovic",
+		url: "https://github.com/seemsindie",
+		affil: "Individual"
+	},
+	{
+		name: "Colin Stanton",
+		url: "https://colinstanton.com",
+		affil: "Individual"
+	},
+	{
+		name: "Theodore Stocker",
+		url: "https://daedal.io",
+		affil: "Individual"
+	},
+	{
+		name: "Dawid Ryłko",
+		url: "https://twitter.com/dawidrylko",
+		affil: "Individual"
+	},
+	{
+		name: "Georgio Trigeorgis",
+		url: "https://trigeorgis.com",
+		affil: "Individual"
+	},
+	{
+		name: "Callie Van Heerden",
+		url: "https://github.com/CallievanHeerden",
+		affil: "Individual"
+	},
+	{
+		name: "Ken Van Hoeylandt",
+		url: "https://kenvanhoeylandt.net",
+		affil: "Customer"
+	},
+	{
+		name: "Karolin Varner",
+		url: "https://twitter.com/dakoraa",
+		affil: "Individual"
+	},
+	{
+		name: "Thomas Viktil",
+		url: "https://twitter.com/mandarinx",
+		affil: "Consumer"
+	},
+	{
+		name: "Sebastian Wiendlocha",
+		url: "https://sebastian.wiendlocha.org",
+		affil: "Individual"
+	},
+	{
+		name: "Jan Wildeboer",
+		url: "https://twitter.com/jwildeboer",
+		affil: "Individual"
+	},
+	{
+		name: "Sam Wilson",
+		url: "https://twitter.com/numbsafari",
+		affil: "Individual"
+	},
+	{
+		name: "Ding Yu",
+		url: "https://dingyu.me",
+		affil: "Apple user since G3"
+	},
+	{
+		name: "Markus Zoppelt",
+		url: "https://zoppelt.net",
+		affil: "Individual"
+	},
+	{
+		name: "Stephen McIntosh",
+		url: "https://github.com/cakeandbakedotorg",
+		affil: "Individual"
+	},
+]
+
+window.addEventListener("load", () => {
+	const olIndividuals = document.getElementById("individuals")
+	olIndividuals.innerHTML = ""
+	individuals.sort((a, b) => {
+		let aLastName = a.name.split(" ")[a.name.split(" ").length-1]
+		let bLastName = b.name.split(" ")[b.name.split(" ").length-1]
+		if (aLastName < bLastName) { return -1 }
+		if (aLastName > bLastName) { return +1 }
+		return 0
+	})
+	individuals.forEach((individual) => {
+		let li = document.createElement("li")
+		let a = document.createElement("a")
+		let span = document.createElement("span")
+		a.href = individual.url
+		a.innerText = individual.name
+		span.innerText = `, ${individual.affil}`
+		li.appendChild(a)
+		li.appendChild(span)
+		olIndividuals.appendChild(li)
+	})
+})
