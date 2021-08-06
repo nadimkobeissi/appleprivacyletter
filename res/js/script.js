@@ -916,6 +916,11 @@ let individuals = [
 		url: "https://github.com/CamFields",
 		affil: "Individual"
 	},
+	{
+		name: "Mohamed Abdelkhalek",
+		url: "https://mohamedxyz.live",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
