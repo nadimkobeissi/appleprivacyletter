@@ -676,6 +676,11 @@ let individuals = [
 		url: "https://benelgar.com",
 		affil: "Individual"
 	},
+	{
+		name: "Cristian Paul Peñaranda Rojaa",
+		url: "https://twitter.com/kristianpaul0",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
