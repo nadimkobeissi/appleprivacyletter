@@ -801,6 +801,11 @@ let individuals = [
 		url: "https://github.com/ty-cs",
 		affil: "Individual"
 	},
+	{
+		name: "Jonathan Hales",
+		url: "https://twitter.com/jayjayHales",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
