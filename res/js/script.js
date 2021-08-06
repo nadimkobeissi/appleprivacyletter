@@ -1022,11 +1022,6 @@ let individuals = [
 		affil: "Individual"
 	},
 	{
-		name: "Zack McQueen",
-		url: "https://github.com/",
-		affil: "Individual"
-	},
-	{
 		name: "Vishnu",
 		url: "https://github.com/vishnugt",
 		affil: "Individual"
@@ -1209,6 +1204,11 @@ let individuals = [
 	{
 		name: "Peter Zhang",
 		url: "https://github.com/zhb94430",
+		affil: "Individual"
+	},
+	{
+		name: "Girgio Scotti",
+		url: "https://github.com/gyosko",
 		affil: "Individual"
 	},
 ]
