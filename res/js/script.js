@@ -906,6 +906,11 @@ let individuals = [
 		url: "https://twitter.com/iamwil",
 		affil: "Individual"
 	},
+	{
+		name: "Ashok Kanumalla",
+		url: "https://twitter.com/akclr",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
