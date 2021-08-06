@@ -1016,6 +1016,11 @@ let individuals = [
 		url: "https://www.dcaulfield.com",
 		affil: "Individual"
 	},
+	{
+		name: "Kevin van Dijk",
+		url: "https://twitter.com/kevinvandijk",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
