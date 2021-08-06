@@ -541,6 +541,11 @@ let individuals = [
 		url: "https://github.com/Meflou",
 		affil: "Individual"
 	},
+	{
+		name: "Clifford Steyn",
+		url: "https://clifford.softwxre.io",
+		affil: "UNIX Developer and Indie Gamedev"
+	},
 ]
 
 window.addEventListener("load", () => {
