@@ -821,6 +821,11 @@ let individuals = [
 		url: "https://github.com/m3data",
 		affil: "Individual"
 	},
+	{
+		name: "Kurt Dietrich",
+		url: "https://github.com/tarsierscripter",
+		affil: "University of Waterloo"
+	},
 ]
 
 window.addEventListener("load", () => {
