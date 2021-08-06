@@ -1111,6 +1111,11 @@ let individuals = [
 		url: "https://priyansh.page",
 		affil: "Individual"
 	},
+	{
+		name: "Maja Košir Habjan",
+		url: "https://dragonscave.space/@Mayana",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
