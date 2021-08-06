@@ -591,6 +591,11 @@ let individuals = [
 		url: "https://twitter.com/greensamuelm",
 		affil: "iOS Developer"
 	},
+	{
+		name: "Kevin Adu-Poku",
+		url: "https://github.com/kaokien",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
