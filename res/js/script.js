@@ -1586,6 +1586,11 @@ let individuals = [
 		url: "https://github.com/unzipinternet",
 		affil: "Individual"
 	},
+	{
+		name: "Jeffrey",
+		url: "https://github.com/quickfire9",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
