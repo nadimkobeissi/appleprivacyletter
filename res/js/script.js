@@ -636,6 +636,12 @@ let individuals = [
 		url: "https://twitter.com/drunknbass",
 		affil: "Individual"
 	},
+	{
+		name: "Effy Elden",
+		url: "https://effy.is",
+		affil: "Technologist"
+	},
+]
 
 window.addEventListener("load", () => {
 	const olIndividuals = document.getElementById("individuals")
