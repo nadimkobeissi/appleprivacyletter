@@ -7,7 +7,7 @@ let individuals = [
 	},
 	*/
 	{
-		name: "Lance",
+		name: "Lance D.",
 		url: "https://github.com/quatrimodo",
 		affil: "Individual"
 	},
