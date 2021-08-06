@@ -8,6 +8,210 @@ let individuals = [
 	},
 	*/
 	{
+		name: "Igor Aguiar",
+		url: "https://github.com/igorlaguiar",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Valentin",
+		url: "https://github.com/Draigon13",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Ravinet T",
+		url: "https://github.com/Tenivar",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Dmitriy Stepenko",
+		url: "https://github.com/pyrocoder",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Joseph Pullara",
+		url: "https://github.com/jmpullara",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Björn Persmats",
+		url: "https://github.com/Plankton555",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Rian Scott",
+		url: "https://github.com/JohnnyOutrun",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Alex T",
+		url: "https://github.com/Technicolor-creamsicle",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Diego Araujo",
+		url: "https://github.com/Goethe0",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Daniel Koenig",
+		url: "https://github.com/Rvby1",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Andre Videla",
+		url: "https://github.com/andrevidela",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Shyzea Byrd",
+		url: "https://github.com/ShyzeaB",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Duncan Joly",
+		url: "https://github.com/duncanjoly13",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Frank Mutsaers",
+		url: "https://twitter.com/FMutsaers",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Michael Reis",
+		url: "https://github.com/mtreis86",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Alon Altman",
+		url: "https://twitter.com/epsalon",
+		affil: "Google, LLC",
+        expert: false
+    },
+    {
+		name: "Andrew Fiorello",
+		url: "https://github.com/WingedRayeth",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Alex H",
+		url: "https://github.com/Superalex40",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "John F.",
+		url: "https://github.com/SkylarLian",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Mads Y",
+		url: "https://github.com/Baekalfen",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Ladislav Louka",
+		url: "https://github.com/ladal1",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Michal Janočko",
+		url: "https://github.com/michaljanocko",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Marko Wenzel",
+		url: "https://github.com/mrkwnzl",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Michael Wagner",
+		url: "https://github.com/miwagner1",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Yvan Hurtado",
+		url: "https://github.com/colococolo",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Arthur Targaryen",
+		url: "https://github.com/arthur-targaryen",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Hani",
+		url: "https://github.com/NeonSpaceTurtle",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Jonas König",
+		url: "https://github.com/jonaskonig",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Elise Trinh",
+		url: "https://github.com/Galejade",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Kévin Dunglas",
+		url: "https://dunglas.fr/",
+		affil: "Les-Tilleuls.coop",
+        expert: false
+    },
+    {
+		name: "James Riske",
+		url: "https://github.com/noctambulent",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Miha Rekar",
+		url: "https://mr.si/",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Greg Lubel",
+		url: "https://github.com/NohWayJose",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Taylor M.",
+		url: "https://github.com/tmascia",
+		affil: "Individual",
+        expert: false
+    },
+	{
 		name: "Speed",
 		url: "https://github.com/CertifiedRascal",
 		affil: "Individual",
