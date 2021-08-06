@@ -13,6 +13,7 @@ body:
  - type: input
    attributes:
      label: Website/Twitter/etc.
- - type: checkbox
+ - type: checkboxes
    attributes:
-     label: I am signing as an organization.
+     options:
+       label: I am signing as an organization.
