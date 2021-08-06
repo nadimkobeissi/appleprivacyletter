@@ -1397,11 +1397,6 @@ let individuals = [
 		affil: "Individual"
 	},
 	{
-		name: "",
-		url: "https://github.com/",
-		affil: "Individual"
-	},
-	{
 		name: "Charles Minor",
 		url: "https://github.com/ThatOneDoge",
 		affil: "Individual"
@@ -1409,6 +1404,11 @@ let individuals = [
 	{
 		name: "Tanner Johnson",
 		url: "https://github.com/tannerwj",
+		affil: "Individual"
+	},
+	{
+		name: "Chris Wiegman",
+		url: "https://github.com/ChrisWiegman",
 		affil: "Individual"
 	},
 ]
