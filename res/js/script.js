@@ -1096,6 +1096,11 @@ let individuals = [
 		url: "https://github.com/KernelPryanic",
 		affil: "Individual"
 	},
+	{
+		name: "Gideon McKee",
+		url: "https://github.com/tafmo",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
