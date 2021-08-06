@@ -1591,6 +1591,11 @@ let individuals = [
 		url: "https://github.com/quickfire9",
 		affil: "Individual"
 	},
+	{
+		name: "Matthew D. Green",
+		url: "https://twitter.com/matthew_d_green",
+		affil: "Johns Hopkins University"
+	},
 ]
 
 window.addEventListener("load", () => {
