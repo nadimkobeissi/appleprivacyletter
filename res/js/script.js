@@ -1516,6 +1516,11 @@ let individuals = [
 		url: "https://semisol.dev",
 		affil: "Individual"
 	},
+	{
+		name: "Daniël Cornelisse",
+		url: "https://github.com/TheSandvichMaker",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
