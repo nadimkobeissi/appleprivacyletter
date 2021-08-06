@@ -1,4 +1,11 @@
 let individuals = [
+	/*
+	{
+		name: "",
+		url: "https://github.com/",
+		affil: "Individual"
+	},
+	*/
 	{
 		name: "Eren Asena",
 		url: "https://github.com/erenasena",
@@ -429,13 +436,16 @@ let individuals = [
 		url: "https://github.com/cakeandbakedotorg",
 		affil: "Individual"
 	},
-	/*
 	{
-		name: "",
-		url: "https://github.com/",
+		name: "Kai Mechel",
+		url: "https://github.com/kameit00",
 		affil: "Individual"
 	},
-	*/
+	{
+		name: "Aakash Sigdel",
+		url: "https://github.com/aakashsigdel",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
