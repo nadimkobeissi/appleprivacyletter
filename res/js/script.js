@@ -2826,6 +2826,218 @@ let individuals = [
 		url: "https://jhalderm.com",
 		affil: "University of Michigan"
 	},
+	let individuals = [
+		{
+			name: "Ness C.",
+			url: "https://github.com/strixus",
+			affil: "Individual"
+		},
+		{
+			name: "Reece Raaum",
+			url: "https://github.com/ja89028",
+			affil: "Individual"
+		},
+		{
+			name: "Garrett P.",
+			url: "https://twitter.com/zoroccidork",
+			affil: "Individual"
+		},
+		{
+			name: "Aaron Brannan",
+			url: "https://github.com/metroidmen",
+			affil: "Individual"
+		},
+		{
+			name: "Ari Romano McBride",
+			url: "https://github.com/ariromano",
+			affil: "Individual"
+		},
+		{
+			name: "Tao Zhang",
+			url: "https://github.com/ericazhang2046",
+			affil: "Individual"
+		},
+		{
+			name: "Bob Grahame",
+			url: "https://github.com/Bgrahame",
+			affil: "Individual"
+		},
+		{
+			name: "Aman Bhargava",
+			url: "https://amanbhargava.com",
+			affil: "Individual"
+		},
+		{
+			name: "Jacek Lach",
+			url: "https://github.com/JacekLach",
+			affil: "Individual"
+		},
+		{
+			name: "Park",
+			url: "https://github.com/mpdmonster2",
+			affil: "Individual"
+		},
+		{
+			name: "Thomas Voss",
+			url: "https://github.com/Mango0x45",
+			affil: "Individual"
+		},
+		{
+			name: "Nathan Church",
+			url: "https://github.com/paraserv",
+			affil: "Individual"
+		},
+		{
+			name: "Andrew Kerr-Thompson",
+			url: "https://github.com/kerrhyphen",
+			affil: "City University of New York"
+		},
+		{
+			name: "Andrew Aldridge",
+			url: "https://github.com/i80and",
+			affil: "Individual"
+		},
+		{
+			name: "Heath Anderson",
+			url: "https://www.heathanderson.net",
+			affil: "Individual"
+		},
+		{
+			name: "Dennis Freitag",
+			url: "https://github.com/d5f6",
+			affil: "Individual"
+		},
+		{
+			name: "Kevin Mai",
+			url: "https://github.com/Reikaze",
+			affil: "Individual"
+		},
+		{
+			name: "John Morton",
+			url: "https://twitter.com/JohnMorton",
+			affil: "Individual"
+		},
+		{
+			name: "Klein Lieu",
+			url: "https://kleinlieu.com",
+			affil: "Individual"
+		},
+		{
+			name: "Lilian Chisca",
+			url: "https://twitter.com/lilianchisca",
+			affil: "Individual"
+		},
+		{
+			name: "Dmitry L.",
+			url: "https://github.com/lef0u",
+			affil: "Individual"
+		},
+		{
+			name: "Ogyen Rangdol",
+			url: "https://github.com/chonyir",
+			affil: "Individual"
+		},
+		{
+			name: "Ricardo Reis",
+			url: "https://github.com/rmcreis",
+			affil: "Individual"
+		},
+		{
+			name: "Jose Gonzales Jr.",
+			url: "https://github.com/krazyowl",
+			affil: "Individual"
+		},
+		{
+			name: "Elijah Flesher",
+			url: "https://github.com/eflee",
+			affil: "Individual"
+		},
+		{
+			name: "Pavel",
+			url: "https://twitter.com/_pafnut",
+			affil: "Individual"
+		},
+		{
+			name: "Jamie McDevitt",
+			url: "https://github.com/IntrepidWhelk",
+			affil: "Individual"
+		},
+		{
+			name: "Robb Vandaveer",
+			url: "https://github.com/rlvandaveer",
+			affil: "Individual"
+		},
+		{
+			name: "Baptiste",
+			url: "https://github.com/Yocklo",
+			affil: "Individual"
+		},
+		{
+			name: "Danny Schmarsel",
+			url: "https://schmarsel.de",
+			affil: "Individual"
+		},
+		{
+			name: "Ryan McBride",
+			url: "https://github.com/Ryan-McBride",
+			affil: "Individual"
+		},
+		{
+			name: "Bart Willemsen",
+			url: "https://twitter.com/Bart_Willemsen",
+			affil: "Individual"
+		},
+		{
+			name: "Christopher Funderburg",
+			url: "https://github.com/bocan",
+			affil: "Individual"
+		},
+		{
+			name: "Kevin Hartwig",
+			url: "https://github.com/kvnhrtwg",
+			affil: "Individual"
+		},
+		{
+			name: "Derek Bantug",
+			url: "https://github.com/hatsuto",
+			affil: "Individual"
+		},
+		{
+			name: "Aditya Prakash Singh",
+			url: "https://github.com/Droppyadi",
+			affil: "Individual"
+		},
+		{
+			name: "Paul Wilson",
+			url: "https://twitter.com/paulanthonywils",
+			affil: "Individual"
+		},
+		{
+			name: "Juan Manuel Franco Patiño",
+			url: "https://github.com/juafrapat",
+			affil: "University of Seville"
+		},
+		{
+			name: "Hamish Gilbert",
+			url: "https://twitter.com/hamishgilbert2",
+			affil: "Individual"
+		},
+		{
+			name: "Gilberto Barros",
+			url: "https://github.com/Gibs954",
+			affil: "Individual"
+		},
+		{
+			name: "Joseph Lombardi",
+			url: "https://twitter.com/Euphoric_Fury",
+			affil: "Individual"
+		},
+		{
+			name: "Tobie Langdel",
+			url: "https://twitter.com/tobie",
+			affil: "Individual"
+		},
+	]
 ]
 
 window.addEventListener("load", () => {
