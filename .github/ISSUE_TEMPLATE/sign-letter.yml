@@ -16,4 +16,4 @@ body:
  - type: checkboxes
    attributes:
      options:
-       label: I am signing as an organization.
+       - label: I am signing as an organization.
