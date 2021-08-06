@@ -1166,6 +1166,11 @@ let individuals = [
 		url: "https://www.jada-xex.com",
 		affil: "Individual"
 	},
+	{
+		name: "Gopalakrishnan Shanker Rajhan",
+		url: "https://github.com/krrishsgk",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
