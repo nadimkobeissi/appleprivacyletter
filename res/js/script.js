@@ -526,6 +526,11 @@ let individuals = [
 		url: "https://instantkhabar.com",
 		affil: "Individual"
 	},
+	{
+		name: "Zak Wilson",
+		url: "https://github.com/zakwilson",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
