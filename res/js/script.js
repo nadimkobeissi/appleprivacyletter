@@ -8,6 +8,12 @@ let individuals = [
 	},
 	*/
 	{
+		name: "Speed",
+		url: "https://github.com/CertifiedRascal",
+		affil: "Individual",
+		expert: false
+	},
+	{
 		name: "Romel Receno",
 		url: "https://github.com/cenovial",
 		affil: "Individual",
