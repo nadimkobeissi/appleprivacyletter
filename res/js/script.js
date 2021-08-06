@@ -671,6 +671,11 @@ let individuals = [
 		url: "https://linkedin.com/in/nicolamuneratto",
 		affil: "Software Engineer"
 	},
+	{
+		name: "Ben Elgar",
+		url: "https://benelgar.com",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
