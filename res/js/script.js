@@ -841,6 +841,11 @@ let individuals = [
 		url: "https://sneak.berlin",
 		affil: "EEQJ Inc."
 	},
+	{
+		name: "Mikka Luster",
+		url: "https://mikka.is",
+		affil: "Myla Medical Ethics Research Trust"
+	},
 ]
 
 window.addEventListener("load", () => {
