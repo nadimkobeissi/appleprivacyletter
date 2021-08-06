@@ -576,6 +576,11 @@ let individuals = [
 		url: "https://twitter.com/Flocular",
 		affil: "IT-Security Expert"
 	},
+	{
+		name: "Aditya Prasad",
+		url: "https://github.com/anantham",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
