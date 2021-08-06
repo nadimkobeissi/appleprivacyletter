@@ -513,8 +513,13 @@ let individuals = [
 	},
 	{
 		name: "Michael Chermside",
-		url: "https://mcherm.com",
+		url: "https://www.mcherm.com",
 		affil: "Capital One"
+	},
+	{
+		name: "Andrea Nepori",
+		url: "https://twitter.com/andreanepori",
+		affil: "Individual"
 	},
 ]
 
