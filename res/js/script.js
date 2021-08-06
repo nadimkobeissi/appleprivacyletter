@@ -871,6 +871,11 @@ let individuals = [
 		url: "https://social.up.edu.ph/@n",
 		affil: "Individual"
 	},
+	{
+		name: "Elijah Wright",
+		url: "https://github.com/elijah",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
