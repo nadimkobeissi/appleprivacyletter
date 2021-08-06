@@ -1259,7 +1259,7 @@ let individuals = [
 		name: "Sofía Celi",
 		url: "https://twitter.com/claucece",
 		affil: "Individual",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Colin",
@@ -1511,7 +1511,7 @@ let individuals = [
 		name: "Eli Ben-Sasson",
 		url: "https://twitter.com/elibensasson",
 		affil: "StarkWare",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Nicolas Boulet",
@@ -1739,7 +1739,7 @@ let individuals = [
 		name: "Yehuda Lindell",
 		url: "https://github.com/ylindell",
 		affil: "Bar-Ilan University",
-		expert: false
+		expert: true
 	},
 	{
 		name: "N. Joshua Madan",
@@ -1781,7 +1781,7 @@ let individuals = [
 		name: "Lúcás C. Meier",
 		url: "https://cronokirby.com",
 		affil: "Switzerland",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Daniel-Andrei Minca",
@@ -3137,7 +3137,7 @@ let individuals = [
 		name: "Ian Preston",
 		url: "https://github.com/ianopolous",
 		affil: "Individual",
-		expert: false
+		expert: true
 	},
 	{
 		name: "Kulmac Xō",
