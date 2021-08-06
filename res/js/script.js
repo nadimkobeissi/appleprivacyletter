@@ -546,6 +546,11 @@ let individuals = [
 		url: "https://clifford.softwxre.io",
 		affil: "UNIX Developer and Indie Gamedev"
 	},
+	{
+		name: "Ilias Akhmedov",
+		url: "https://twitter.com/venngar_0011",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
