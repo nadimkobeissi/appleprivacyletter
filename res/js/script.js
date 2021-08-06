@@ -1091,6 +1091,11 @@ let individuals = [
 		url: "https://twitter.com/hadricus",
 		affil: "Individual"
 	},
+	{
+		name: "Daniil Trishkin",
+		url: "https://github.com/KernelPryanic",
+		affil: "Individual"
+	},
 ]
 
 window.addEventListener("load", () => {
