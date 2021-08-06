@@ -461,6 +461,11 @@ let individuals = [
 		url: "https://github.com/sparagi",
 		affil: "Tall Order Software"
 	},
+	{
+		name: "Tero Keski-Valkama",
+		url: "https://neter.fi",
+		affil: "Neter"
+	},
 ]
 
 window.addEventListener("load", () => {
