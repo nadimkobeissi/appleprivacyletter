@@ -10875,7 +10875,7 @@ let individuals = [
 	}, {
 		name: "J. R. Smith",
 		url: "https://github.com/ObtuseMoose",
-		affil: "Website/Twitter/etc.",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Austen Scheer",
@@ -18346,11 +18346,6 @@ let individuals = [
 	}, {
 		"name": "Matt Moylez",
 		"url": "https://github.com/mmoyles87",
-		"affil": "Individual",
-		"expert": false
-	}, {
-		"name": "MentorLycon",
-		"url": "https://github.com/kalkaseer",
 		"affil": "Individual",
 		"expert": false
 	}, {

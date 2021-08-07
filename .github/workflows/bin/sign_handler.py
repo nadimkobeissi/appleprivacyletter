@@ -11,7 +11,7 @@ DEFAULT_AFFIL = "Individual"
 DEFAULT_URL = os.environ.get("ISSUE_AUTHOR_URL")
 
 def parse_body() -> str:
-    REGEX = r"### Name\s+(?P<name>.*)\s+### Affiliation\s+(?P<affil>.*)\s+### Website\/Twitter\/etc.\s+(?P<url>.*)\s+###"
+    REGEX = r"### Name\s+(?P<name>.*)\s+### Affiliation\s+(?P<affil>.*)\s+### URL\sof\syour\sWebsite\/Twitter\/etc.\s+(?P<url>.*)\s+###"
     issue_body = os.environ.get("ISSUE_BODY")
     match = re.match(REGEX, issue_body, re.MULTILINE)
 
