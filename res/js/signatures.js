@@ -18448,7 +18448,62 @@ let individuals = [
 		"url": "https://github.com/rob137",
 		"affil": "Individual",
 		"expert": false
-	} /* CI APPEND HERE*/
+	} , {
+		"name": "Niclas Alexander Horstad",
+		"url": "https://github.com/pioka1",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Gianmarco Gargiulo",
+		"url": "www.gianmarco.ga",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Mark Redmann",
+		"url": "https://github.com/RosettaHS",
+		"affil": "Head of Rosetta H&S Integrated",
+		"expert": false
+	}, {
+		"name": "Yi-Jyun Pan",
+		"url": "Twitter - @byStarTW",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Max Schleiffer",
+		"url": "https://www.maxschleiffer.com/",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sangeeth Sudheer",
+		"url": "sangeeth96",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Stefan Schultz",
+		"url": "https://github.com/itsmestefanjay",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "toadBugger",
+		"url": "https://github.com/toadBugger",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Ronald Lens",
+		"url": "NA",
+		"affil": "None",
+		"expert": false
+	}, {
+		"name": "Rajat Sharda",
+		"url": "https://github.com/rajatsharda23",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Aaron Westley",
+		"url": "https://github.com/awestley",
+		"affil": "Individual",
+		"expert": false
+	}/* CI APPEND HERE*/
 ]
 
 window.addEventListener("load", () => {
