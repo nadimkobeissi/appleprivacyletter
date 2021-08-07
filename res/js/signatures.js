@@ -8300,7 +8300,7 @@ let individuals = [
 	}, {
 		name: "Daniel Hofmann",
 		url: "https://github.com/danhofmann-com",
-		affil: "Parts Square - Automotive E-commerce",
+		affil: "Parts Square",
 		expert: false
 	}, {
 		name: "Brett Ford",
@@ -14955,7 +14955,7 @@ let individuals = [
 	}, {
 		name: "Tzzzt123",
 		url: "https://Twitter.com/Tzzzt123",
-		affil: "No affiliation to any org/company",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Nsenam Udoh",
@@ -15540,11 +15540,6 @@ let individuals = [
 	}, {
 		name: "George",
 		url: "https://github.com/hgdueck",
-		affil: "Individual",
-		expert: false
-	}, {
-		name: "Carlos Alberto Gonçalves Pereira",
-		url: "https://github.com/charliejackal",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -16476,11 +16471,6 @@ let individuals = [
 		"name": "Adrian Tineo",
 		"url": "atineoSE",
 		"affil": "Individual",
-		"expert": false
-	}, {
-		"name": "F1uffy Goat",
-		"url": "f1uffygoat.com",
-		"affil": "OSCP, CRTP, Hacke@HackTheBox, Cyber Sec Director, Defender of privacy and human rights",
 		"expert": false
 	}, {
 		"name": "Claudio Beatrice",
@@ -19080,15 +19070,15 @@ window.addEventListener("load", () => {
 	individuals.forEach((individual) => {
 		let li = document.createElement("li")
 		let a = document.createElement("a")
-		let span = document.createElement("span")
+		// let span = document.createElement("span")
 		if (individual.expert) {
 			li.classList.add("expert")
 		}
 		a.href = individual.url
 		a.innerText = individual.name
-		span.innerText = `, ${individual.affil}`
+		// span.innerText = `, ${individual.affil}`
 		li.appendChild(a)
-		li.appendChild(span)
+		// li.appendChild(span)
 		olIndividuals.appendChild(li)
 	})
 })

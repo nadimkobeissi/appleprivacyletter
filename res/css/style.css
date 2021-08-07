@@ -14,7 +14,6 @@ h5 {
 
 div#main {
 	width: 90%;
-	max-width: 900px;
 	margin: 0 auto;
 }
 
@@ -23,6 +22,8 @@ div#main div#heading {
 	display: block;
 	overflow: hidden;
 	padding: 10px;
+	max-width: 900px;
+	margin: 0 auto;
 }
 
 div#main div#heading img#logo {
@@ -51,6 +52,7 @@ div#main div#letter {
 	width: 98%;
 	text-align: justify;
 	line-height: 1.7em;
+	max-width: 900px;
 }
 
 div#main div#letter blockquote {
@@ -66,12 +68,30 @@ div#main div#letter blockquote {
 	text-align: left;
 }
 
-div#main div#signatures ol#individuals {
-	column-count: 2;
-	font-size: 0.9em;
+div#main div#signatures div#organizationsHeader {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+div#main div#signatures ul#organizations {
+	column-count: 4;
 	margin: 0 auto;
 	display: block;
-	width: 100%;
+	max-width: 900px;
+}
+
+div#main div#signatures div#individualsHeader {
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+div#main div#signatures ol#individuals {
+	column-count: 4;
+	font-size: 0.7em;
+	margin: 0 auto;
+	display: block;
+	width: 90%;
+	max-width: 1000px;
 }
 
 div#main div#signatures ol#individuals li.expert {
@@ -84,7 +104,11 @@ div#main div#footer {
 }
 
 @media all and (max-width: 1000px) {
+	div#main div#signatures ul#organizations {
+		column-count: 2;
+	}
 	div#main div#signatures ol#individuals {
-		column-count: 1;
+		column-count: 2;
+		font-size: 0.8em;
 	}
 }
