@@ -17408,6 +17408,46 @@ let individuals = [
 		"url": "https://github.com/orangecms",
 		"affil": "none",
 		"expert": false
+	}, {
+		"name": "Tristan Schmidt",
+		"url": "trizlybear.xyz",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Peter Taoussanis",
+		"url": "https://github.com/ptaoussanis",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jasper Harris",
+		"url": "n/a",
+		"affil": "Game developer",
+		"expert": false
+	}, {
+		"name": "Thom Veldhuis",
+		"url": "thomveldhuis.xyz",
+		"affil": "Student",
+		"expert": false
+	}, {
+		"name": "Jared Parker",
+		"url": "https://github.com/jaredparker",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Felicia",
+		"url": "Felicia_cai",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Colin",
+		"url": "https://github.com/phillyman2633",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Bailey Pumfleet",
+		"url": "https://github.com/baileypumfleet",
+		"affil": "Individual",
+		"expert": false
 	} /* CI APPEND HERE*/
 ]
 
