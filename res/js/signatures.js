@@ -9004,7 +9004,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Minteck",
-		url: "https://Twitter: @_Minteck",
+		url: "https://twitter.com/Minteck",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10814,7 +10814,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Deven Blake",
-		url: "https://github.com/devenblake",
+		url: "http://www.trinity.moe",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -17600,7 +17600,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Edmund Edgar",
-		"url": "edmundedgar",
+		"url": "https://twitter.com/edmundedgar",
 		"affil": "KK Social Minds / Reality.eth",
 		"expert": false
 	}, {
@@ -17610,7 +17610,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Remko Tronçon",
-		"url": "https://github.com/remko",
+		"url": "https://mko.re",
 		"affil": "Individual",
 		"expert": false
 	}, {
@@ -17620,7 +17620,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Robert Stark",
-		"url": "BigCat.ceo",
+		"url": "https://BigCat.ceo",
 		"affil": "Individual",
 		"expert": false
 	}, {
