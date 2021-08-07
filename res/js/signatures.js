@@ -18665,7 +18665,32 @@ let individuals = [
 		"expert": false
 	}
 
-	/* CI APPEND HERE*/
+	, {
+		"name": "Markus Ylitalo",
+		"url": "https://github.com/Markusyli",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Daniel Abrecht",
+		"url": "https://github.com/Daniel-Abrecht",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Kyri Nicolai",
+		"url": "https://github.com/klonic",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Zj Xi",
+		"url": "https://github.com/decapitate",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Huw Pritchard",
+		"url": "https://github.com/huwdp",
+		"affil": "Individual",
+		"expert": false
+	}/* CI APPEND HERE*/
 ]
 
 window.addEventListener("load", () => {
