@@ -16432,6 +16432,11 @@ let individuals = [
 		"url": "Beryllium-tech.eu",
 		"affil": "None",
 		"expert": false
+	}, {
+		"name": "Steffen Beyer",
+		"url": "https://github.com/serpent213",
+		"affil": "Developer",
+		"expert": false
 	}/* CI APPEND HERE*/
 ]
 
