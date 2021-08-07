@@ -7344,7 +7344,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Lukas Daniel Klausner",
-		url: "https://l17r.eu>",
+		url: "https://l17r.eu",
 		affil: "St. Pölten University of Applied Sciences",
 		expert: false
 	}, {
@@ -19328,8 +19328,62 @@ let individuals = [
 		"url": "https://github.com/mbokman",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Iakov Markov",
+		"url": "https://github.com/iakovmarkov",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "David Nielsen",
+		"url": "https://github.com/DavidNielsen",
+		"affil": "Open Source contributor",
+		"expert": false
+	}, {
+		"name": "Alejandro Talley",
+		"url": "https://github.com/alegro91",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Izaro Lopez Garcia",
+		"url": "https://github.com/askewmind",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Richard White",
+		"url": "https://github.com/bossrabbit",
+		"affil": "Consumer",
+		"expert": false
+	}, {
+		"name": "Jiawei Li",
+		"url": "https://github.com/iewaij",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tom Bader",
+		"url": "https://github.com/thetommes",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Baccar Wozat",
+		"url": "twitter.com/wozat",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Walco Van Loon",
+		"url": "https://github.com/walcovanloon",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "llui85",
+		"url": "https://github.com/llui85",
+		"affil": "HN",
+		"expert": false
+	}, {
+		"name": "Jonas Thierjung",
+		"url": "https://github.com/animalyoung",
+		"affil": "Individual",
+		"expert": false
 	}
-
 ]
 
 window.addEventListener("load", () => {
