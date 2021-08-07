@@ -12483,6 +12483,181 @@ let individuals = [
 		"url": "https://github.com/itkovian",
 		"affil": "Ghent University",
 		"expert": false
+	}, {
+		"name": "Peter",
+		"url": "https://github.com/Peterkrol12",
+		"affil": "Customer",
+		"expert": false
+	}, {
+		"name": "John Tower Hinson",
+		"url": "https://github.com/johntowerhinson",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jan-Willem Van Hoof",
+		"url": "https://github.com/hoofjw",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Antonio Suico",
+		"url": "https://github.com/Anthros93",
+		"affil": "Customer",
+		"expert": false
+	}, {
+		"name": "Min",
+		"url": "https://github.com/mng031",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jacob G",
+		"url": "@jacobethangib",
+		"affil": "Myself",
+		"expert": false
+	}, {
+		"name": "Jeremy Kister",
+		"url": "https://github.com/jkister",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Carlos",
+		"url": "https://github.com/cagonzalezsterling",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Elias Howell",
+		"url": "https://github.com/31ias",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Namik",
+		"url": "https://github.com/Delilovic",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Florian Hölzel",
+		"url": "https://github.com/Volpey",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Moritz Bierling",
+		"url": "https://github.com/bierlingm",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Greg Zdanowski",
+		"url": "https://github.com/kiler129",
+		"affil": "noFlash",
+		"expert": false
+	}, {
+		"name": "Aravind Balla",
+		"url": "https://github.com/aravindballa",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Aldrin Antony A",
+		"url": "@Aldrinantony476",
+		"affil": "Student",
+		"expert": false
+	}, {
+		"name": "Sean Miller",
+		"url": "https://github.com/fastbean-au",
+		"affil": "Software Engineer",
+		"expert": false
+	}, {
+		"name": "david clark",
+		"url": "https://github.com/ministoat",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Eric Ashenden",
+		"url": "https://github.com/eashenden",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Erik Sebellin-Ross",
+		"url": "https://github.com/eriksr",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dennis Yi",
+		"url": "https://github.com/dennisyi",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Mike M.G Gottlieb",
+		"url": "https://github.com/absak0",
+		"affil": "none",
+		"expert": false
+	}, {
+		"name": "Pseudonymous Free Human Being",
+		"url": "My comment is thus: Child exploitation, human-rights violations, and other abuses are horrifying and reprehensible and must be stopped. Surveillance of the public, however, has never, will never, and cannot possibly attack the root of the problem. Attack the root and leave the people alone!",
+		"affil": "Professional Macintosh Developer",
+		"expert": false
+	}, {
+		"name": "Fabio Grammatico",
+		"url": "https://github.com/fgrammatico",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tibor Jager",
+		"url": "https://github.com/t-jager",
+		"affil": "University of Wuppertal",
+		"expert": false
+	}, {
+		"name": "Carolyn Butler",
+		"url": "https://github.com/GETandSELECT",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Michael Cutro",
+		"url": "mrcis.me",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dan Vacca",
+		"url": "https://github.com/vandacca",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Stefano Pepe",
+		"url": "https://github.com/stefanopepe",
+		"affil": "Uniquid Inc",
+		"expert": false
+	}, {
+		"name": "Gary Calcott",
+		"url": "@garycalcott",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Ondřej Piálek",
+		"url": "https://github.com/ondrejpialek",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Christopher Sheats",
+		"url": "emeraldonion.org",
+		"affil": "Emerald Onion",
+		"expert": false
+	}, {
+		"name": "Steve Labus",
+		"url": "@AngryKiller_",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Roberto Cucinotta",
+		"url": "https://github.com/robbixc",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "James Sorg",
+		"url": "https://github.com/BrokenGale",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Thomas Oberndörfer",
+		"url": "https://github.com/toberndo",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
