@@ -10553,11 +10553,6 @@ let individuals = [
 		affil: "Concerned citizen",
 		expert: false
 	}, {
-		name: "Jennifer Manieri",
-		url: "https://github.com/StubbornIdealist",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Dhuvi Karthikeyan",
 		url: "https://github.com/dhuvik",
 		affil: "UC Berkeley",
