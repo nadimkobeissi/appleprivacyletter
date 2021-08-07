@@ -16237,6 +16237,66 @@ let individuals = [
 		"url": "https://github.com/guilamu",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Ruben De Smet",
+		"url": "https://github.com/rubdos",
+		"affil": "Vrije Universiteit Brussel",
+		"expert": false
+	}, {
+		"name": "Clément Nivolle",
+		"url": "https://github.com/cnivolle",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sernin van de Krol",
+		"url": "https://github.com/paneidos",
+		"affil": "Developer",
+		"expert": false
+	}, {
+		"name": "Jayanth Chandra",
+		"url": "https://github.com/jayanthchandra",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sven Neuhaus",
+		"url": "https://github.com/neuhaus",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "dag",
+		"url": "https://github.com/d4g",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dylan",
+		"url": "https://github.com/dylan-bit",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dominik Hagowski",
+		"url": "https://github.com/DominikHagowski",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Hunter-Time",
+		"url": "https://github.com/Hunter-Time",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jefff",
+		"url": "No Comment",
+		"affil": "No Comment",
+		"expert": false
+	}, {
+		"name": "Adolfo Santiago",
+		"url": "https://github.com/captainepoch",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Rubens Pinheiro Gonçalves Cavalcante",
+		"url": "https://github.com/rubenspgcavalcante",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
