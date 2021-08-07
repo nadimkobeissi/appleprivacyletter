@@ -4185,7 +4185,7 @@ let individuals = [
 	},
 	{
 		name: "Karthik Ramasamy",
-		url: "_cartick",
+		url: "https://_cartick",
 		affil: "Individual",
 		expert: false
 	},
@@ -4227,7 +4227,7 @@ let individuals = [
 	},
 	{
 		name: "Oliver Beardsley",
-		url: "ocbeardsley.dev",
+		url: "https://ocbeardsley.dev",
 		affil: "Individual",
 		expert: false
 	},
@@ -4269,7 +4269,7 @@ let individuals = [
 	},
 	{
 		name: "Bryan Ross",
-		url: "twitter.com/rossipedia",
+		url: "https://twitter.com/rossipedia",
 		affil: "Individual",
 		expert: false
 	},
@@ -4353,7 +4353,7 @@ let individuals = [
 	},
 	{
 		name: "Trevor Leadley",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	},
@@ -4485,7 +4485,7 @@ let individuals = [
 	},
 	{
 		name: "Charles Fulnecky",
-		url: "cafulnecky",
+		url: "https://cafulnecky",
 		affil: "Individual",
 		expert: false
 	},
@@ -4611,7 +4611,7 @@ let individuals = [
 	},
 	{
 		name: "Lucy Fowler",
-		url: "EmpyrealMikan",
+		url: "https://EmpyrealMikan",
 		affil: "Individual",
 		expert: false
 	},
@@ -4653,19 +4653,19 @@ let individuals = [
 	},
 	{
 		name: "Noah Schiffman",
-		url: "Noah_A_S",
+		url: "https://Noah_A_S",
 		affil: "Individual",
 		expert: false
 	},
 	{
 		name: "Rami Bitar",
-		url: "twitter.com/ramibitar96",
+		url: "https://twitter.com/ramibitar96",
 		affil: "Myself",
 		expert: false
 	},
 	{
 		name: "Trivikram Kamat",
-		url: "trivikram",
+		url: "https://trivikram",
 		affil: "Individual",
 		expert: false
 	},
@@ -4839,7 +4839,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Malick",
-		url: "mlckc",
+		url: "https://mlckc",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -4924,7 +4924,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Antonin CLAUZIER",
-		url: "clauzier.dev",
+		url: "https://clauzier.dev",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -4934,7 +4934,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Alex Camilleri",
-		url: "twitter.com/AlexKalopsia",
+		url: "https://twitter.com/AlexKalopsia",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -4949,7 +4949,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Matheus Graciano",
-		url: "camaradajimi",
+		url: "https://camaradajimi",
 		affil: "Software Writer",
 		expert: false
 	}, {
@@ -5114,7 +5114,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Noah Schiffman",
-		url: "Noah_A_S",
+		url: "https://Noah_A_S",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5144,7 +5144,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Mohamed Rahim",
-		url: "islamath",
+		url: "https://islamath",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5189,12 +5189,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Brett Schuchrrt",
-		url: "Schuchert.github.io",
+		url: "https://Schuchert.github.io",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Chris Bishop",
-		url: "garagehangover.com",
+		url: "https://garagehangover.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5324,7 +5324,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Tom Schmidt",
-		url: "deskhelper.de",
+		url: "https://deskhelper.de",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5384,7 +5384,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Zach Herbert",
-		url: "twitter.com/zachherbert",
+		url: "https://twitter.com/zachherbert",
 		affil: "Foundation Devices",
 		expert: false
 	}, {
@@ -5484,7 +5484,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Siv",
-		url: "Reddit",
+		url: "https://Reddit",
 		affil: "Customer",
 		expert: false
 	}, {
@@ -5594,7 +5594,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ferdinand F. Zebua",
-		url: "twitter.com/f_fz",
+		url: "https://twitter.com/f_fz",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5639,7 +5639,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Stephen Perkins",
-		url: "infoset.io",
+		url: "https://infoset.io",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5754,7 +5754,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Rick Mann",
-		url: "latencyzero.com",
+		url: "https://latencyzero.com",
 		affil: "Latency: Zero, LLC",
 		expert: false
 	}, {
@@ -5764,7 +5764,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Christopher",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "User",
 		expert: false
 	}, {
@@ -5799,7 +5799,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Zev Lee",
-		url: "zevlee.me",
+		url: "https://zevlee.me",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5824,7 +5824,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Matt Dickinson",
-		url: "mdickin_dev",
+		url: "https://mdickin_dev",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5889,7 +5889,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "M'hamed Lehbab",
-		url: "No response",
+		url: "https://No response",
 		affil: "No response",
 		expert: false
 	}, {
@@ -5949,7 +5949,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Huckert",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5964,7 +5964,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Blu Tashoni",
-		url: "discord: Blu_VEVo#5525",
+		url: "https://discord: Blu_VEVo#5525",
 		affil: "None",
 		expert: false
 	}, {
@@ -5979,7 +5979,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Cheeyoon Lee",
-		url: "cheeyoon.com",
+		url: "https://cheeyoon.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -5994,7 +5994,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Sam Strand",
-		url: "non",
+		url: "https://non",
 		affil: "non",
 		expert: false
 	}, {
@@ -6079,7 +6079,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Jan-Christoph Ihrens",
-		url: "Twitter: @jcihrens",
+		url: "https://Twitter: @jcihrens",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -6139,12 +6139,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Adam",
-		url: "boush.net",
+		url: "https://boush.net",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Ed Scunner",
-		url: "",
+		url: "https://",
 		affil: "Retired iPhone user (for now)",
 		expert: false
 	}, {
@@ -6209,7 +6209,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Richard Fiunk",
-		url: "paylive.co",
+		url: "https://paylive.co",
 		affil: "PayLive",
 		expert: false
 	}, {
@@ -6309,7 +6309,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Raul Jimenez",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Macbook/Iphone/apple watch user",
 		expert: false
 	}, {
@@ -6349,7 +6349,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Steve Muller",
-		url: "whatstevedid.com",
+		url: "https://whatstevedid.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -6374,7 +6374,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Alex Klein",
-		url: "twitter.com/mylife4thehorde",
+		url: "https://twitter.com/mylife4thehorde",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -6389,7 +6389,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Lucas Cerro",
-		url: "lucascerro",
+		url: "https://lucascerro",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -6519,7 +6519,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Marcos",
-		url: "xnakra",
+		url: "https://xnakra",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -6664,12 +6664,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Tim Vaccarelli",
-		url: "vaccarelli.net",
+		url: "https://vaccarelli.net",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Wayne Dahlberg",
-		url: "twitter.com/waynedahlberg",
+		url: "https://twitter.com/waynedahlberg",
 		affil: "app designer",
 		expert: false
 	}, {
@@ -6784,7 +6784,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Mayur",
-		url: "mayur__22",
+		url: "https://mayur__22",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -6954,7 +6954,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Anil Radhakrishnan",
-		url: "anilr.dev",
+		url: "https://anilr.dev",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7139,7 +7139,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Lazeez Jiddan",
-		url: "finestories.com",
+		url: "https://finestories.com",
 		affil: "World Lit",
 		expert: false
 	}, {
@@ -7164,12 +7164,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Tony",
-		url: "tonyisacooldude",
+		url: "https://tonyisacooldude",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "David Irvine",
-		url: "safenetworkforum.org",
+		url: "https://safenetworkforum.org",
 		affil: "CEO",
 		expert: false
 	}, {
@@ -7264,7 +7264,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Borys",
-		url: "twitter.com/asc3rr",
+		url: "https://twitter.com/asc3rr",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7309,12 +7309,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "rui keiti kikumatsu",
-		url: "ruikeiti",
+		url: "https://ruikeiti",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Anthony",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7344,7 +7344,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Syan Che",
-		url: "Syanme",
+		url: "https://Syanme",
 		affil: "Customer",
 		expert: false
 	}, {
@@ -7464,7 +7464,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "johnny ravioli",
-		url: "no",
+		url: "https://no",
 		affil: "something",
 		expert: false
 	}, {
@@ -7494,7 +7494,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Patrick Vogelius",
-		url: "twitter.com/PatrickVogelius",
+		url: "https://twitter.com/PatrickVogelius",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7564,7 +7564,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Mac Frost",
-		url: "frostwritten.wordpress.com",
+		url: "https://frostwritten.wordpress.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7639,12 +7639,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "TM",
-		url: "twitter.com/linux_time",
+		url: "https://twitter.com/linux_time",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "thelifeandtimes",
-		url: "theIifeandtimes",
+		url: "https://theIifeandtimes",
 		affil: "free human",
 		expert: false
 	}, {
@@ -7654,7 +7654,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Colin Gzesh",
-		url: "",
+		url: "https://",
 		affil: "",
 		expert: false
 	}, {
@@ -7674,7 +7674,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Garry Lowther",
-		url: "Trisys",
+		url: "https://Trisys",
 		affil: "Customer",
 		expert: false
 	}, {
@@ -7714,7 +7714,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Juan David Ríos",
-		url: "juandarr",
+		url: "https://juandarr",
 		affil: "Computer Engineer",
 		expert: false
 	}, {
@@ -7734,7 +7734,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Øyvind Sægrov",
-		url: "Segrov",
+		url: "https://Segrov",
 		affil: "Startup CEO and long time Apple addict",
 		expert: false
 	}, {
@@ -7759,12 +7759,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Neil L",
-		url: "Intravert",
+		url: "https://Intravert",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Mike Vogelius",
-		url: "mikevogelius",
+		url: "https://mikevogelius",
 		affil: "UCL University - Denmark",
 		expert: false
 	}, {
@@ -7789,7 +7789,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "D.A. Simants",
-		url: "dasimants.com",
+		url: "https://dasimants.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7824,7 +7824,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Javaid Ahmed",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7919,7 +7919,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ali Qureshi",
-		url: "iAliQ_",
+		url: "https://iAliQ_",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8099,7 +8099,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Roy Vonk",
-		url: "RoyVonk.nl",
+		url: "https://RoyVonk.nl",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8224,7 +8224,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Dilon",
-		url: "N/A",
+		url: "https://N/A",
 		affil: "User and Shareholder",
 		expert: false
 	}, {
@@ -8259,7 +8259,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "MacGregor Mills",
-		url: "twitter.com/macdoodle16",
+		url: "https://twitter.com/macdoodle16",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8329,7 +8329,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Joseph Schrag",
-		url: "joeschrag.com",
+		url: "https://joeschrag.com",
 		affil: "Software Engineer",
 		expert: false
 	}, {
@@ -8354,7 +8354,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Avery Ecklein",
-		url: "Instagram",
+		url: "https://Instagram",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8494,7 +8494,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Dalton Burge",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8544,7 +8544,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Peder Iblher",
-		url: "digitalhumanrights.blog",
+		url: "https://digitalhumanrights.blog",
 		affil: "Giordano Bruno Foundation",
 		expert: false
 	}, {
@@ -8719,7 +8719,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Yuan Stevens",
-		url: "yuanstevens.org",
+		url: "https://yuanstevens.org",
 		affil: "(acting in personal capacity)",
 		expert: false
 	}, {
@@ -8784,7 +8784,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ben Grant",
-		url: "Twitter: @_190n",
+		url: "https://Twitter: @_190n",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8799,7 +8799,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "YuJin Kim",
-		url: "axionbuster.com",
+		url: "https://axionbuster.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8924,7 +8924,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Buddhi Godawatte",
-		url: "querator.com",
+		url: "https://querator.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -8959,7 +8959,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Angus Pettey",
-		url: "Pettey.co.uk",
+		url: "https://Pettey.co.uk",
 		affil: "PhD student University of Nottingham",
 		expert: false
 	}, {
@@ -8994,7 +8994,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Arno Bost",
-		url: "computerspezl.de",
+		url: "https://computerspezl.de",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9014,7 +9014,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Minteck",
-		url: "Twitter: @_Minteck",
+		url: "https://Twitter: @_Minteck",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9029,7 +9029,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "José Bayoán Santiago Calderón",
-		url: "jbsc.netlify.app/Nosferican",
+		url: "https://jbsc.netlify.app/Nosferican",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9089,7 +9089,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Chris White",
-		url: "cwhite.me",
+		url: "https://cwhite.me",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9119,7 +9119,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "David Wouters",
-		url: "twitter.com/daveflash",
+		url: "https://twitter.com/daveflash",
 		affil: "my own",
 		expert: false
 	}, {
@@ -9144,7 +9144,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Trey Pentecost",
-		url: "treypentecost.com",
+		url: "https://treypentecost.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9239,7 +9239,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Pachuku Tekram",
-		url: "twitter.com/ptekram",
+		url: "https://twitter.com/ptekram",
 		affil: "Self",
 		expert: false
 	}, {
@@ -9334,7 +9334,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Stan Fiskin",
-		url: "Twitter.com/standaman360",
+		url: "https://Twitter.com/standaman360",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9539,7 +9539,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ed Hurtley",
-		url: "ehurtley",
+		url: "https://ehurtley",
 		affil: "InfoSec professional and Apple user since 1979",
 		expert: false
 	}, {
@@ -9574,7 +9574,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Luca Jones",
-		url: "twitter.com/batterydie",
+		url: "https://twitter.com/batterydie",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9594,7 +9594,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Kenzie Strand",
-		url: "(prefer not to disclose, just use github account)",
+		url: "https://(prefer not to disclose, just use github account)",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9609,7 +9609,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Chika.btc",
-		url: "chikabtc.com",
+		url: "https://chikabtc.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9704,7 +9704,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Steven Viddal",
-		url: "Steven.viddal",
+		url: "https://Steven.viddal",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9744,7 +9744,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Axel Lexer",
-		url: "none",
+		url: "https://none",
 		affil: "none",
 		expert: false
 	}, {
@@ -9759,7 +9759,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Joe. L",
-		url: "None",
+		url: "https://None",
 		affil: "None",
 		expert: false
 	}, {
@@ -9839,7 +9839,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Katherine Walton-Elliott",
-		url: "pyoor",
+		url: "https://pyoor",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -9874,7 +9874,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Chris Navarro",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10094,7 +10094,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Jeremy Bank",
-		url: "Jbank.design",
+		url: "https://Jbank.design",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10119,7 +10119,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Richard Hao",
-		url: "twitter.com/haoxilu",
+		url: "https://twitter.com/haoxilu",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10134,7 +10134,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Gregory adams",
-		url: "Raccoondude.com",
+		url: "https://Raccoondude.com",
 		affil: "Raccoondude.com",
 		expert: false
 	}, {
@@ -10179,7 +10179,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Marty Zalega",
-		url: "evilmarty",
+		url: "https://evilmarty",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10319,7 +10319,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Aiman Nizam",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10464,7 +10464,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Muhannad 🌊",
-		url: "twitter.com/MHNDhq",
+		url: "https://twitter.com/MHNDhq",
 		affil: "dev",
 		expert: false
 	}, {
@@ -10624,7 +10624,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Chuck Baggett",
-		url: "twitter.com/ChuckBaggett",
+		url: "https://twitter.com/ChuckBaggett",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10659,7 +10659,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Cj Roche",
-		url: "Retired",
+		url: "https://Retired",
 		affil: "Retired",
 		expert: false
 	}, {
@@ -10749,7 +10749,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ian  M. McGinnis",
-		url: "if you need to see me as a credible person, instagram is IanMMcGinnis but i would prefer not for it to be linked",
+		url: "https://if you need to see me as a credible person, instagram is IanMMcGinnis but i would prefer not for it to be linked",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10774,7 +10774,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Matt Crum",
-		url: "twitter.com/mattscottcrum",
+		url: "https://twitter.com/mattscottcrum",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -10819,7 +10819,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Josef Schneider",
-		url: "post-genius.com",
+		url: "https://post-genius.com",
 		affil: "individual",
 		expert: false
 	}, {
@@ -10939,7 +10939,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Marvin von Hagen",
-		url: "twitter.com/marvinvonhagen",
+		url: "https://twitter.com/marvinvonhagen",
 		affil: "Technical University of Munich, TUM Boring",
 		expert: false
 	}, {
@@ -10984,12 +10984,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Arrio Gonsalves",
-		url: "twitter.com/adgarrio",
+		url: "https://twitter.com/adgarrio",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Michael T Conley",
-		url: "mikeconleyphotography.com",
+		url: "https://mikeconleyphotography.com",
 		affil: "mike conley photography, former Apple employee",
 		expert: false
 	}, {
@@ -11009,7 +11009,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Lucy Suddenly",
-		url: "LucySuddenly",
+		url: "https://LucySuddenly",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11064,7 +11064,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Noah St. Amand",
-		url: "tookish.net",
+		url: "https://tookish.net",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11089,7 +11089,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "John Chadwick",
-		url: "perfectplaycoaching.com",
+		url: "https://perfectplaycoaching.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11164,7 +11164,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Raghav Gulati",
-		url: "twitter.com/rargulati",
+		url: "https://twitter.com/rargulati",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11199,7 +11199,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Mathis Van eetvelde",
-		url: "mathisvaneetvelde.com/",
+		url: "https://mathisvaneetvelde.com/",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11234,7 +11234,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Brad Ross",
-		url: "MicroStrategy.com",
+		url: "https://MicroStrategy.com",
 		affil: "Microstrategies",
 		expert: false
 	}, {
@@ -11289,7 +11289,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Richard Gallagher",
-		url: "thebruge",
+		url: "https://thebruge",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11319,7 +11319,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Uotlaf",
-		url: "twitter.com/uotlaf",
+		url: "https://twitter.com/uotlaf",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11574,7 +11574,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Haku Wu",
-		url: "saltandfish.com",
+		url: "https://saltandfish.com",
 		affil: "Saltandfish LLC",
 		expert: false
 	}, {
@@ -11644,7 +11644,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Timothy Beck",
-		url: "TimothyBeck.com",
+		url: "https://TimothyBeck.com",
 		affil: "Application Developer at The New Mexico Administrative Office of The District Attorneys",
 		expert: false
 	}, {
@@ -11759,7 +11759,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Matthew Hopkins",
-		url: "NerdHoppo.com",
+		url: "https://NerdHoppo.com",
 		affil: "Self Employed",
 		expert: false
 	}, {
@@ -11864,7 +11864,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Janith Udayanga",
-		url: "Twitter.com/janith_96",
+		url: "https://Twitter.com/janith_96",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -11884,7 +11884,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Eleftherios Iliadis",
-		url: "\n<li></li>\n",
+		url: "https://\n<li></li>\n",
 		affil: "\n<li></li>\n",
 		expert: false
 	}, {
@@ -12194,7 +12194,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Carlos Mejia",
-		url: "elmejilloncito",
+		url: "https://elmejilloncito",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12324,7 +12324,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "william wang",
-		url: "twitter.com/#!/WilliamVVang",
+		url: "https://twitter.com/#!/WilliamVVang",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12354,12 +12354,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Joshua Jacobs",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "None",
 		expert: false
 	}, {
 		name: "Cory Cooper",
-		url: "Twitter.com/yroc92",
+		url: "https://Twitter.com/yroc92",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12384,7 +12384,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Akshat",
-		url: "Akczht",
+		url: "https://Akczht",
 		affil: "Akshat",
 		expert: false
 	}, {
@@ -12429,7 +12429,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Dynamo Software",
-		url: "dynamo-software.de",
+		url: "https://dynamo-software.de",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12444,7 +12444,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Krushi Raj Tula",
-		url: "twitter.com/krushiraj123",
+		url: "https://twitter.com/krushiraj123",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12599,7 +12599,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Michael Cutro",
-		url: "mrcis.me",
+		url: "https://mrcis.me",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12624,7 +12624,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Christopher Sheats",
-		url: "emeraldonion.org",
+		url: "https://emeraldonion.org",
 		affil: "Emerald Onion",
 		expert: false
 	}, {
@@ -12734,7 +12734,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Anton Kuznetsov",
-		url: "isnifer",
+		url: "https://isnifer",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12759,7 +12759,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Lukas Cigler",
-		url: "Datas",
+		url: "https://Datas",
 		affil: "Security designer",
 		expert: false
 	}, {
@@ -12809,7 +12809,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Qiu Chaofan",
-		url: "ecnelises.com",
+		url: "https://ecnelises.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12819,7 +12819,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "theredditbandit",
-		url: "theredditbandit.github.io/awesome-cybersec/",
+		url: "https://theredditbandit.github.io/awesome-cybersec/",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12839,7 +12839,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "theredditbandit",
-		url: "theredditbandit.github.io/awesome-cybersec/",
+		url: "https://theredditbandit.github.io/awesome-cybersec/",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12919,7 +12919,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Jelmer Prins",
-		url: "twitter.com/justcarakas",
+		url: "https://twitter.com/justcarakas",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -12974,7 +12974,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Stefan Zimmermann",
-		url: "elbephant.com",
+		url: "https://elbephant.com",
 		affil: "Consumer",
 		expert: false
 	}, {
@@ -13004,7 +13004,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Nils Fleischhacker",
-		url: "nilsfleischhacker.de",
+		url: "https://nilsfleischhacker.de",
 		affil: "Ruhr University Bochum",
 		expert: false
 	}, {
@@ -13029,12 +13029,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ted",
-		url: "Twitter",
+		url: "https://Twitter",
 		affil: "None",
 		expert: false
 	}, {
 		name: "Joris van Rooij",
-		url: "jrrzz.net",
+		url: "https://jrrzz.net",
 		affil: "wasda, constructors",
 		expert: false
 	}, {
@@ -13184,7 +13184,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Anand V",
-		url: "iam_anandv",
+		url: "https://iam_anandv",
 		affil: "Individual, Privacy researcher",
 		expert: false
 	}, {
@@ -13379,7 +13379,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Haowen Ke",
-		url: "None",
+		url: "https://None",
 		affil: "Freelancer",
 		expert: false
 	}, {
@@ -13404,7 +13404,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Jens Steger",
-		url: "dieses-veganismus.de",
+		url: "https://dieses-veganismus.de",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -13434,7 +13434,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Raphael Oliveira",
-		url: "obscvra.com.br",
+		url: "https://obscvra.com.br",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -13509,7 +13509,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Philipp Unterholzer",
-		url: "utec-it.at",
+		url: "https://utec-it.at",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -13539,7 +13539,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Torsten Dillenburg",
-		url: "twitter.com/falki",
+		url: "https://twitter.com/falki",
 		affil: "IT manager",
 		expert: false
 	}, {
@@ -13564,7 +13564,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Ricky Lee",
-		url: "rickylee.monster",
+		url: "https://rickylee.monster",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -13614,7 +13614,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "David Helkowski",
-		url: "dryark.com",
+		url: "https://dryark.com",
 		affil: "Dry Ark LLC",
 		expert: false
 	}, {
@@ -13689,7 +13689,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Robert R",
-		url: "rbnsn.net",
+		url: "https://rbnsn.net",
 		affil: "Web Designer",
 		expert: false
 	}, {
@@ -13799,7 +13799,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Paul Grandperrin",
-		url: "paulg.fr",
+		url: "https://paulg.fr",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -13909,7 +13909,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Timon Stalder",
-		url: "Twitter.com/timon_j_s",
+		url: "https://Twitter.com/timon_j_s",
 		affil: "Systems engineer",
 		expert: false
 	}, {
@@ -13999,7 +13999,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Adol Christin",
-		url: "Twitter：zh92412",
+		url: "https://Twitter：zh92412",
 		affil: "6155926346",
 		expert: false
 	}, {
@@ -14044,7 +14044,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Walter Hannemann",
-		url: "wh4nn",
+		url: "https://wh4nn",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14079,7 +14079,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Maksymilian Olowksi",
-		url: "maksolowski.com",
+		url: "https://maksolowski.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14144,7 +14144,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "David Cowden",
-		url: "dcow",
+		url: "https://dcow",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14174,7 +14174,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Zachary Hale",
-		url: "Sampletextblog.tech",
+		url: "https://Sampletextblog.tech",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14249,7 +14249,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Storm Bogsnes",
-		url: "bogsnes.org",
+		url: "https://bogsnes.org",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14269,7 +14269,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Surya Teja K",
-		url: "surya-dev-journey.hashnode.dev",
+		url: "https://surya-dev-journey.hashnode.dev",
 		affil: "None",
 		expert: false
 	}, {
@@ -14524,12 +14524,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Haris Begovic",
-		url: "n/a",
+		url: "https://n/a",
 		affil: "n/a",
 		expert: false
 	}, {
 		name: "Bill Toole",
-		url: "billtoole.net",
+		url: "https://billtoole.net",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14549,12 +14549,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Tom Hartley",
-		url: "tmhrtly",
+		url: "https://tmhrtly",
 		affil: "Individual",
 		expert: false
 	}, {
 		name: "Cody Stevens",
-		url: "sugarfreedesigns.com",
+		url: "https://sugarfreedesigns.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14574,7 +14574,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Oliver Hofmann",
-		url: "#fiamh",
+		url: "https://#fiamh",
 		affil: "University of Melbourne",
 		expert: false
 	}, {
@@ -14654,7 +14654,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Nick Craske",
-		url: "Nick Craske",
+		url: "https://Nick Craske",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14819,7 +14819,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Vera Sauvignon",
-		url: "twitter.com/raeaulait",
+		url: "https://twitter.com/raeaulait",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -14884,7 +14884,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Rokuba",
-		url: "None",
+		url: "https://None",
 		affil: "None",
 		expert: false
 	}, {
@@ -14924,7 +14924,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Tobias",
-		url: "",
+		url: "https://",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -15004,7 +15004,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Tzzzt123",
-		url: "Twitter.com/Tzzzt123",
+		url: "https://Twitter.com/Tzzzt123",
 		affil: "No affiliation to any org/company",
 		expert: false
 	}, {
@@ -15039,7 +15039,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Frederico Flores",
-		url: "jardimsonoro.com",
+		url: "https://jardimsonoro.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -15104,7 +15104,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Sam Bennett",
-		url: "Sam_benne",
+		url: "https://Sam_benne",
 		affil: "Web developer",
 		expert: false
 	}, {
@@ -15179,7 +15179,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Paul Prijs",
-		url: "\n<li></li>\n",
+		url: "https://\n<li></li>\n",
 		affil: "\n<li></li>\n",
 		expert: false
 	}, {
@@ -15239,12 +15239,12 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Charles Desaulniers",
-		url: "SeeTwoGaming",
+		url: "https://SeeTwoGaming",
 		affil: "Self Employed",
 		expert: false
 	}, {
 		name: "Doug barrett",
-		url: "Baytechdesign.com.au",
+		url: "https://Baytechdesign.com.au",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -15319,7 +15319,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Deepu k Sasidharan",
-		url: "deepu105",
+		url: "https://deepu105",
 		affil: "NA",
 		expert: false
 	}, {
@@ -15349,7 +15349,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Igor Henrique Costa Morais",
-		url: "ihmorais",
+		url: "https://ihmorais",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -15409,7 +15409,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Stephen Silides",
-		url: "Twttter",
+		url: "https://Twttter",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -15444,7 +15444,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "Max Eckhardt",
-		url: "Maxeckhardt.com",
+		url: "https://Maxeckhardt.com",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -15524,7 +15524,7 @@ let individuals = [
 		expert: false
 	}, {
 		name: "kishan suntokeesing",
-		url: "openworldalliance.org",
+		url: "https://openworldalliance.org",
 		affil: "co founder",
 		expert: false
 	}, {
