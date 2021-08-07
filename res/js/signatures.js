@@ -16297,6 +16297,61 @@ let individuals = [
 		"url": "https://github.com/rubenspgcavalcante",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Stefan",
+		"url": "https://github.com/AnkiManki",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Roemer",
+		"url": "@roembol_",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Zachary Jones",
+		"url": "https://github.com/Z4KJ0N3S",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Michael Barret",
+		"url": "N/A (just created an account to sign petition)",
+		"affil": "Apple iPhone / iPad / Mac user",
+		"expert": false
+	}, {
+		"name": "Nikolay Iliev",
+		"url": "https://github.com/KoliosterNikolayIliev",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Andrei Lavrenov",
+		"url": "https://github.com/elfensky",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "R. Siebes",
+		"url": "https://github.com/rsiebes",
+		"affil": "VU Amsterdam",
+		"expert": false
+	}, {
+		"name": "Billy Johansson",
+		"url": "https://github.com/dirtyrolf",
+		"affil": "Software Engineer",
+		"expert": false
+	}, {
+		"name": "Sovereign Citizen",
+		"url": "https://github.com/PommbearBTC",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "M.D.",
+		"url": "https://github.com/S1rJ0hn",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Suhit Agarwal",
+		"url": "https://github.com/SuhitAgarwal",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
