@@ -20201,7 +20201,7 @@ let individuals = [
 	}, {
 		"name": "Peter Liddle",
 		"url": "https://github.com/ptliddle",
-		"affil": "Freelance iOS Engineer, Former Engineering Manager at Redfin",
+		"affil": "Freelance iOS Engineer",
 		"expert": false
 	}, {
 		"name": "Tapasapt",
@@ -20590,37 +20590,3 @@ let individuals = [
 		"expert": false
 	}
 ]
-
-window.addEventListener("load", () => {
-	const olIndividuals = document.getElementById("individuals")
-	olIndividuals.innerHTML = ""
-	individuals.sort((a, b) => {
-		let aSplit = a.name.split(" ")
-		let bSplit = b.name.split(" ")
-		let aLastName = aSplit[aSplit.length - 1]
-		let bLastName = bSplit[bSplit.length - 1]
-		if (aLastName < bLastName) {
-			return -1
-		}
-		if (aLastName > bLastName) {
-			return +1
-		}
-		return 0
-	})
-	individuals.forEach((individual) => {
-		let li = document.createElement("li")
-		let a = document.createElement("a")
-		let span = document.createElement("span")
-		let br = document.createElement("br")
-		if (individual.expert) {
-			li.classList.add("expert")
-		}
-		a.href = individual.url
-		a.innerText = individual.name
-		span.innerText = `${individual.affil}`
-		li.appendChild(a)
-		li.appendChild(br)
-		li.appendChild(span)
-		olIndividuals.appendChild(li)
-	})
-})

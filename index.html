@@ -26,6 +26,41 @@
 	<link href="https://fonts.googleapis.com/css2?family=Georama:wght@300;400&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 	<script src="res/js/signatures.js" charset="utf-8"></script>
+	<script>
+		window.addEventListener("load", () => {
+			const olIndividuals = document.getElementById("individuals")
+			olIndividuals.innerHTML = ""
+			individuals.sort((a, b) => {
+				let aSplit = a.name.split(" ")
+				let bSplit = b.name.split(" ")
+				let aLastName = aSplit[aSplit.length - 1]
+				let bLastName = bSplit[bSplit.length - 1]
+				if (aLastName < bLastName) {
+					return -1
+				}
+				if (aLastName > bLastName) {
+					return +1
+				}
+				return 0
+			})
+			individuals.forEach((individual) => {
+				let li = document.createElement("li")
+				let a = document.createElement("a")
+				let span = document.createElement("span")
+				let br = document.createElement("br")
+				if (individual.expert) {
+					li.classList.add("expert")
+				}
+				a.href = individual.url
+				a.innerText = individual.name
+				span.innerText = `${individual.affil}`
+				li.appendChild(a)
+				li.appendChild(br)
+				li.appendChild(span)
+				olIndividuals.appendChild(li)
+			})
+		})
+	</script>
 	<title>Apple Privacy Letter: An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology</title>
 </head>
 
