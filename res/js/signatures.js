@@ -16417,7 +16417,7 @@ let individuals = [
 		"url": "https://github.com/6-AND-9",
 		"affil": "Individual",
 		"expert": false
-	}
+	}/* CI APPEND HERE*/
 ]
 
 window.addEventListener("load", () => {
