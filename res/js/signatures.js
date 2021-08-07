@@ -16352,6 +16352,71 @@ let individuals = [
 		"url": "https://github.com/SuhitAgarwal",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Mehrshad Mirmohammadi",
+		"url": "https://github.com/Helium-5",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "F1uffy Goat",
+		"url": "f1uffygoat.com",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Christian Stefanescu",
+		"url": "0chris.com",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sam Catania",
+		"url": "https://github.com/sbcatania",
+		"affil": "Stanford Daily Publishing Corporation",
+		"expert": false
+	}, {
+		"name": "Wang Kaiqi 王楷奇",
+		"url": "https://github.com/NickWang308",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Aeden Geo Thomas",
+		"url": "https://github.com/AedenThomas",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Kashyap Variyani",
+		"url": "@kashyapvariyani",
+		"affil": "An iPhone User",
+		"expert": false
+	}, {
+		"name": "iFission",
+		"url": "https://github.com/iFission",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "R H van der Gaag",
+		"url": "https://github.com/RhvdG",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Andi Pieper",
+		"url": "https://github.com/argl",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Mario Kralj",
+		"url": "https://github.com/500-ise",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sebastian Verschoor",
+		"url": "https://github.com/sebastianv89",
+		"affil": "University of Waterloo",
+		"expert": false
+	}, {
+		"name": "And Dre",
+		"url": "https://github.com/6-AND-9",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
