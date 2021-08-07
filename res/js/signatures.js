@@ -17408,7 +17408,12 @@ let individuals = [
 		"url": "https://github.com/orangecms",
 		"affil": "none",
 		"expert": false
-	} /* CI APPEND HERE*/
+	} , {
+		"name": "M Jumelet",
+		"url": "https://github.com/mjumelet",
+		"affil": "Individual",
+		"expert": false
+	}/* CI APPEND HERE*/
 ]
 
 window.addEventListener("load", () => {
