@@ -4985,7 +4985,7 @@ let individuals = [
 	}, {
 		name: "Deryck Anderson",
 		url: "https://github.com/derycka",
-		affil: "Swift Developer / 25 Yrs. Apple Platform User",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Tim Byrne",
@@ -6290,7 +6290,7 @@ let individuals = [
 	}, {
 		name: "Keanu C.",
 		url: "https://github.com/Keanu73",
-		affil: "Person who hates having their privacy eroded",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Thorkil Værge",
@@ -6430,7 +6430,7 @@ let individuals = [
 	}, {
 		name: "Lukas",
 		url: "https://github.com/luksal",
-		affil: "Do not build surveillance tools that can be abused to find political dissidents",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Angel Luis Gonzalez",
@@ -7335,7 +7335,7 @@ let individuals = [
 	}, {
 		name: "Myles Diaz",
 		url: "https://github.com/MylesDiaz",
-		affil: "Employed in the field of information technology",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Trevor Harbeard",
@@ -7455,7 +7455,7 @@ let individuals = [
 	}, {
 		name: "Siim",
 		url: "https://github.com/siim-m",
-		affil: "Human who values freedom and likes Apple products",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Stephen Nichol",
@@ -7735,7 +7735,7 @@ let individuals = [
 	}, {
 		name: "Øyvind Sægrov",
 		url: "https://Segrov",
-		affil: "Startup CEO and long time Apple addict",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Darren Black",
@@ -9275,7 +9275,7 @@ let individuals = [
 	}, {
 		name: "Joe Crawford",
 		url: "https://github.com/artlung",
-		affil: "Programming on Apple devices since 1982",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Davis K",
@@ -9540,7 +9540,7 @@ let individuals = [
 	}, {
 		name: "Ed Hurtley",
 		url: "https://ehurtley",
-		affil: "InfoSec professional and Apple user since 1979",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "David Perez",
@@ -10990,7 +10990,7 @@ let individuals = [
 	}, {
 		name: "Michael T Conley",
 		url: "https://mikeconleyphotography.com",
-		affil: "mike conley photography, former Apple employee",
+		affil: "Former Apple employee",
 		expert: false
 	}, {
 		name: "Eric Guo",
@@ -11150,7 +11150,7 @@ let individuals = [
 	}, {
 		name: "Rivage",
 		url: "https://github.com/Rivage42",
-		affil: "Massive apple fan, almost own one of every product",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Randall King",
@@ -11495,7 +11495,7 @@ let individuals = [
 	}, {
 		name: "Jason Engelsman",
 		url: "https://github.com/zeus65",
-		affil: "Apple and the privacy steps it has made fan.",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Anonymous signer",
@@ -11640,7 +11640,7 @@ let individuals = [
 	}, {
 		name: "Timothy Beck",
 		url: "https://TimothyBeck.com",
-		affil: "Application Developer at The New Mexico Administrative Office of The District Attorneys",
+		affil: "New Mexico Office of the District Attorneys",
 		expert: false
 	}, {
 		name: "Haden Watne",
@@ -12285,7 +12285,7 @@ let individuals = [
 	}, {
 		name: "Owen Blacker",
 		url: "https://github.com/owenblacker",
-		affil: "co-founder, Open Rights Group",
+		affil: "Open Rights Group",
 		expert: false
 	}, {
 		name: "Mathieu Schimmerling",
@@ -12440,7 +12440,7 @@ let individuals = [
 	}, {
 		name: "Ted Hart-Davis",
 		url: "https://github.com/TedsterTech",
-		affil: "Cybersecurity & Forensics Student at Edinburgh Napier University",
+		affil: "Edinburgh Napier University",
 		expert: false
 	}, {
 		name: "Jose Castillo",
@@ -13175,7 +13175,7 @@ let individuals = [
 	}, {
 		name: "Anand V",
 		url: "https://iam_anandv",
-		affil: "Individual, Privacy researcher",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Tom Blyth",
@@ -13985,7 +13985,7 @@ let individuals = [
 	}, {
 		name: "Lyell Read",
 		url: "https://github.com/lyell_read",
-		affil: "Oregon State University Security Club",
+		affil: "Oregon State University",
 		expert: false
 	}, {
 		name: "Adol Christin",
@@ -14075,7 +14075,7 @@ let individuals = [
 	}, {
 		name: "Stig M. Baugstø",
 		url: "https://github.com/stigmh",
-		affil: "Consumer &amp; software engineer",
+		affil: "Individualr",
 		expert: false
 	}, {
 		name: "Leonard Lin",
@@ -14265,7 +14265,7 @@ let individuals = [
 	}, {
 		name: "Edef",
 		url: "https://github.com/edefincognitus",
-		affil: "Apple consumer (for now) and security enthousiast",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "ginta",
@@ -14605,7 +14605,7 @@ let individuals = [
 	}, {
 		name: "John Woods",
 		url: "https://github.com/johnalanwoods",
-		affil: "Applied Cryptographer/Software Architect",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Valentin LAGADEC",
@@ -15025,7 +15025,7 @@ let individuals = [
 	}, {
 		name: "Charles Richard Oldham",
 		url: "https://github.com/cro",
-		affil: "Individual, Apple user since the Apple ][",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Frederico Flores",
@@ -15240,7 +15240,7 @@ let individuals = [
 	}, {
 		name: "William Campbell",
 		url: "https://github.com/Lonegwadiwaitor",
-		affil: "An ex-iPhone user and privacy advocate",
+		affil: "Individual",
 		expert: false
 	}, {
 		name: "Brock Miller",
