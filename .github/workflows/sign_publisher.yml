@@ -2,7 +2,9 @@
 # Contributed by @developStorm on GitHub
 
 name: Signature Publisher
-# concurrency: new-sign-publishing
+concurrency: 
+  group: new-sign-publishing
+  cancel-in-progress: true
 on:
   issues:
     types:
@@ -12,23 +14,25 @@ jobs:
     if: github.event.label.name == 'signature-approved'
     runs-on: ubuntu-latest
     steps:
-      - name: Get Publish Lock
-        uses: shogo82148/actions-mutex@v1
-        with:
-          key: publish-new-signature
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-      - name: Write New Signature
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-          ISSUE_AUTHOR_URL: ${{ github.event.issue.user.html_url }}
+      - name: Install dependencies
         run: |
-          python3 .github/workflows/bin/sign_handler.py --commit-sign
+          python3 -m pip install requests
+      - name: Write New Signature
+        id: publisher
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "::set-output name=commit_body::$(python3 .github/workflows/bin/publisher.py)"
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'New signature, closes #${{ github.event.issue.number }}'
+          commit_message: |
+            Add new signature(s)
+            
+            ${{ steps.publisher.outputs.commit_body }}'
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
