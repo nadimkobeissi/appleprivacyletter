@@ -18503,6 +18503,26 @@ let individuals = [
 		"url": "https://github.com/awestley",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Carlos Suberviola Oroz",
+		"url": "https://github.com/csoroz",
+		"affil": "Apple user seriously considering switching to another platform.",
+		"expert": false
+	}, {
+		"name": "Romain Bailly",
+		"url": "https://github.com/barolab",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Karel Hiddenhoff",
+		"url": "https://github.com/Z33SL4G",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "W.B Veldhuis",
+		"url": "https://github.com/doRadiology",
+		"affil": "human being",
+		"expert": false
 	}/* CI APPEND HERE*/
 ]
 
