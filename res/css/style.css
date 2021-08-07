@@ -14,7 +14,7 @@ h5 {
 
 div#main {
 	width: 90%;
-	max-width: 800px;
+	max-width: 900px;
 	margin: 0 auto;
 }
 
@@ -66,6 +66,14 @@ div#main div#letter blockquote {
 	text-align: left;
 }
 
+div#main div#signatures ol#individuals {
+	column-count: 2;
+	font-size: 0.9em;
+	margin: 0 auto;
+	display: block;
+	width: 100%;
+}
+
 div#main div#signatures ol#individuals li.expert {
 	font-weight: bold;
 }
@@ -73,4 +81,10 @@ div#main div#signatures ol#individuals li.expert {
 div#main div#footer {
 	border-top: 1px solid #CCC;
 	margin-top: 40px;
+}
+
+@media all and (max-width: 1000px) {
+	div#main div#signatures ol#individuals {
+		column-count: 1;
+	}
 }
