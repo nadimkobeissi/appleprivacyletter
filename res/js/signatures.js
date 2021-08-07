@@ -14838,11 +14838,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Muhammad Akhtar Arshad",
-		url: "https://github.com/akhtar-gb",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Rafał Rothenberger",
 		url: "https://github.com/rafalrothenberger",
 		affil: "Individual",
