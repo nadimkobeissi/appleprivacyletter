@@ -16777,6 +16777,106 @@ let individuals = [
 		"url": "https://github.com/filipkamenski",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Justin Roberts",
+		"url": "https://github.com/jusroberts",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Toby Huang",
+		"url": "https://github.com/tobyatgithub",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tim Hausmann",
+		"url": "https://github.com/TimHausmann",
+		"affil": "Apple User",
+		"expert": false
+	}, {
+		"name": "Jonas Güther",
+		"url": "https://github.com/MonoTheo",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tom_Steve",
+		"url": "https://github.com/TomSteve1102",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Juan Roberto",
+		"url": "https://github.com/juanro49",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Doney den Ouden",
+		"url": "https://github.com/Dexwell",
+		"affil": "Product Designer and Developer",
+		"expert": false
+	}, {
+		"name": "Winter",
+		"url": "https://github.com/chunhowe",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Denis Sedchenko",
+		"url": "x1unix.com",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Nikita Dudnik",
+		"url": "https://github.com/Nek",
+		"affil": "individual",
+		"expert": false
+	}, {
+		"name": "Ronald Ip",
+		"url": "https://github.com/iphoting",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Johannes Odland",
+		"url": "https://github.com/johannesodland",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jörn Huxhorn",
+		"url": "https://github.com/huxi",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Christoph",
+		"url": "https://github.com/Chrizl577",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Remco",
+		"url": "https://github.com/R3mc0o",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "fu minghao",
+		"url": "https://github.com/jigaowan",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Michael Boyd",
+		"url": "https://github.com/ohboyd",
+		"affil": "Software Engineer",
+		"expert": false
+	}, {
+		"name": "John Cant",
+		"url": "https://github.com/johncant",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "DuncanRobertson",
+		"url": "https://github.com/DuncanRobertson",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Rod Frederick",
+		"url": "https://github.com/sxyazi",
+		"affil": "Individual",
+		"expert": false
 	} /* CI APPEND HERE*/
 ]
 
