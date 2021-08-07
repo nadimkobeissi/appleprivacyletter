@@ -2,7 +2,7 @@
 # Contributed by @developStorm on GitHub
 
 name: Signature Publisher
-concurrency: new-sign-publishing
+# concurrency: new-sign-publishing
 on:
   issues:
     types:
@@ -12,6 +12,10 @@ jobs:
     if: github.event.label.name == 'signature-approved'
     runs-on: ubuntu-latest
     steps:
+      - name: Get Publish Lock
+        uses: shogo82148/actions-mutex@v1
+        with:
+          key: publish-new-signature
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
