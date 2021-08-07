@@ -16422,6 +16422,11 @@ let individuals = [
 		"url": "https://github.com/mafriese",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "\u30d0\u30fc\u30c8\u30eb",
+		"url": "https://github.com/teflonmac",
+		"affil": "Individual",
+		"expert": false
 	}/* CI APPEND HERE*/
 ]
 
