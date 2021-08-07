@@ -12589,11 +12589,6 @@ let individuals = [
 		"affil": "none",
 		"expert": false
 	}, {
-		"name": "Pseudonymous Free Human Being",
-		"url": "My comment is thus: Child exploitation, human-rights violations, and other abuses are horrifying and reprehensible and must be stopped. Surveillance of the public, however, has never, will never, and cannot possibly attack the root of the problem. Attack the root and leave the people alone!",
-		"affil": "Professional Macintosh Developer",
-		"expert": false
-	}, {
 		"name": "Fabio Grammatico",
 		"url": "https://github.com/fgrammatico",
 		"affil": "Individual",
