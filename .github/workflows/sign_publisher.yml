@@ -1,0 +1,30 @@
+# This file is licensed under the MIT license
+# Contributed by @developStorm on GitHub
+
+name: Signature Publisher
+concurrency: new-sign-publishing
+on:
+  issues:
+    types:
+      - labeled
+jobs:
+  publish:
+    if: github.event.label.name == 'signature-approved'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Write New Signature
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_AUTHOR_URL: ${{ github.event.issue.user.html_url }}
+        run: |
+          python3 .github/workflows/bin/sign_handler.py --commit-sign
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'New signature, closes #${{ github.event.issue.number }}'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
