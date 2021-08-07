@@ -19223,7 +19223,113 @@ let individuals = [
 		"url": "https://github.com/lousimonetti",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Fábio Gameiro",
+		"url": "twitter.com/ravenfz",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Ken",
+		"url": "https://github.com/ziipo",
+		"affil": "Customer",
+		"expert": false
+	}, {
+		"name": "Jieweig",
+		"url": "https://github.com/ghqe",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Simon Huang",
+		"url": "https://github.com/shuang854",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Diogo Mafra",
+		"url": "https://github.com/diogomqbm",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Christopher Baldrey",
+		"url": "https://github.com/Baldrickk",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Bedrignans",
+		"url": "https://github.com/thibaltus",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Bernard Costa",
+		"url": "https://github.com/bernardcosta",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Stefan Haubold",
+		"url": "https://github.com/Soph",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tobias Unterlöhner",
+		"url": "https://github.com/Someb0dyElse",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dmitry Aistoff",
+		"url": "https://github.com/aistoff",
+		"affil": "Software Engineer",
+		"expert": false
+	}, {
+		"name": "Shawn Mastria",
+		"url": "https://github.com/shawn03478",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dorian Contursi",
+		"url": "None",
+		"affil": "None",
+		"expert": false
+	}, {
+		"name": "Thomas Tafuto",
+		"url": "https://github.com/zdocument",
+		"affil": "Writer",
+		"expert": false
+	}, {
+		"name": "Christian Boyle",
+		"url": "https://github.com/christianboyle",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Ashwin",
+		"url": "https://github.com/incessantmeraki",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Eric Seufert",
+		"url": "https://github.com/ESeufert",
+		"affil": "Mobile Dev Memo",
+		"expert": false
+	}, {
+		"name": "Kaitlyn Coleman",
+		"url": "https://github.com/K8215",
+		"affil": "Professional web developer",
+		"expert": false
+	}, {
+		"name": "Genadi Samokovarov",
+		"url": "https://github.com/gsamokovarov",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Janmajaya Mall",
+		"url": "https://github.com/Janmajayamall",
+		"affil": "Developer",
+		"expert": false
+	}, {
+		"name": "Martin Bokman",
+		"url": "https://github.com/mbokman",
+		"affil": "Individual",
+		"expert": false
 	}
+
 ]
 
 window.addEventListener("load", () => {
