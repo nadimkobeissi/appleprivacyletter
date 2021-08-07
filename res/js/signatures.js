@@ -16427,6 +16427,11 @@ let individuals = [
 		"url": "https://github.com/teflonmac",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Rasmus Bengtsson",
+		"url": "Beryllium-tech.eu",
+		"affil": "None",
+		"expert": false
 	}/* CI APPEND HERE*/
 ]
 
