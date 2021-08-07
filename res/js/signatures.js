@@ -16719,7 +16719,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Krzysztof Gabaja",
-		"url": "\n<li></li>\n",
+		"url": "",
 		"affil": "None, a worried individual",
 		"expert": false
 	}, {
@@ -17496,7 +17496,7 @@ let individuals = [
 	}, {
 		"name": "Tim Heiler",
 		"url": "timheiler.com",
-		"affil": "\n<li></li>\n",
+		"affil": "",
 		"expert": false
 	}, {
 		"name": "Xaver Hellauer",
@@ -17545,8 +17545,8 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Vladimir",
-		"url": "\n<li></li>\n",
-		"affil": "\n<li></li>\n",
+		"url": "",
+		"affil": "",
 		"expert": false
 	}, {
 		"name": "Daniel S",
