@@ -9173,11 +9173,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Anonymous",
-		url: "https://github.com/SGuivenne",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Ricardo",
 		url: "https://github.com/K-Langoso",
 		affil: "Individual",
@@ -11485,11 +11480,6 @@ let individuals = [
 	}, {
 		name: "Jason Engelsman",
 		url: "https://github.com/zeus65",
-		affil: "Individual",
-		expert: false
-	}, {
-		name: "Anonymous signer",
-		url: "https://github.com/LilldNew",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -16143,11 +16133,6 @@ let individuals = [
 		"affil": "Individual",
 		"expert": false
 	}, {
-		"name": "Privacy advocate",
-		"url": "https://github.com/bzns",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Alejandro",
 		"url": "https://github.com/alejandromontero",
 		"affil": "Individual",
@@ -16175,6 +16160,81 @@ let individuals = [
 	}, {
 		"name": "Peace Ejenobi",
 		"url": "@EjenobiPeace",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Alex McLarty",
+		"url": "https://github.com/alexmclarty",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Yiming Zhang",
+		"url": "https://github.com/baobao1270",
+		"affil": "Apple user",
+		"expert": false
+	}, {
+		"name": "James Cleveland",
+		"url": "https://github.com/radiosilence",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jehu",
+		"url": "https://github.com/787a68",
+		"affil": "freedom",
+		"expert": false
+	}, {
+		"name": "Dominik Gebhart",
+		"url": "https://github.com/DominikGebhart",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "moustachu",
+		"url": "https://github.com/moustachu",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Beno Rudolf",
+		"url": "benorudolf.com",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Will I",
+		"url": "https://github.com/elevenchars",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Niklas Brunberg",
+		"url": "https://github.com/NiklasBr",
+		"affil": "Customer for 20+ years",
+		"expert": false
+	}, {
+		"name": "Luki120",
+		"url": "https://github.com/Luki120",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Matthew",
+		"url": "https://github.com/mzyzc",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Asaad",
+		"url": "iasaadb",
+		"affil": "Privacy-Invasive Content Scanning Technology",
+		"expert": false
+	}, {
+		"name": "Manuel Tiago Pereira",
+		"url": "https://github.com/mtpereira",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Marco Brosseit",
+		"url": "https://github.com/Mbrozz",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Guilamu",
+		"url": "https://github.com/guilamu",
 		"affil": "Individual",
 		"expert": false
 	}
