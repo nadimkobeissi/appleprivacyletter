@@ -17408,7 +17408,6 @@ let individuals = [
 		"url": "https://github.com/orangecms",
 		"affil": "none",
 		"expert": false
-<<<<<<< HEAD
 	}, {
 		"name": "Tristan Schmidt",
 		"url": "trizlybear.xyz",
@@ -17449,7 +17448,7 @@ let individuals = [
 		"url": "https://github.com/baileypumfleet",
 		"affil": "Individual",
 		"expert": false
-	},{
+	}, {
 		"name": "M Jumelet",
 		"url": "https://github.com/mjumelet",
 		"affil": "Individual",
@@ -17459,7 +17458,7 @@ let individuals = [
 		"url": "https://github.com/spadival",
 		"affil": "Individual",
 		"expert": false
-	}/* CI APPEND HERE*/
+	} /* CI APPEND HERE*/
 ]
 
 window.addEventListener("load", () => {
