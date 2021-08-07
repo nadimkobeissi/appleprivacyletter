@@ -13463,11 +13463,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Felix Ruppert",
-		url: "https://github.com/flexiruppert",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Ricky Lee",
 		url: "https://rickylee.monster",
 		affil: "Individual",
@@ -13495,11 +13490,6 @@ let individuals = [
 	}, {
 		name: "Paul Verbeke",
 		url: "https://github.com/paulverbeke",
-		affil: "Individual",
-		expert: false
-	}, {
-		name: "Felix Ruppert",
-		url: "https://github.com/flexiruppert",
 		affil: "Individual",
 		expert: false
 	}, {
