@@ -17413,6 +17413,11 @@ let individuals = [
 		"url": "https://github.com/mjumelet",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Shailendra Padival",
+		"url": "https://github.com/spadival",
+		"affil": "Individual",
+		"expert": false
 	}/* CI APPEND HERE*/
 ]
 
