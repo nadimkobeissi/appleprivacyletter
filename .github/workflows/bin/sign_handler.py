@@ -31,7 +31,7 @@ def parse_body() -> str:
     if match.group("url") != NO_RESPONSE_TEXT:
         result["url"] = match.group("url")
 
-    return json.dumps(result, indent="\t")
+    return json.dumps(result, indent="\t\t")
 
 def compose_message(signature: str) -> str:
     # %0A is an escaped newline character
@@ -40,6 +40,16 @@ def compose_message(signature: str) -> str:
     msg += '%0A```'
     return msg
 
+def commit_signature(signature: str) -> None:
+    data = None
+    with open('./res/js/script.js') as f:
+        data = f.read()
+
+    data = data.replace('/* CI APPEND HERE*/', f', {signature}/* CI APPEND HERE*/')
+
+    with open('./res/js/script.js', 'w') as f:
+        f.write(data)
+
 def main():
     try:
         new_signature = parse_body()
@@ -47,7 +57,8 @@ def main():
             if sys.argv[1] == '--compose-message':
                 print(compose_message(new_signature.replace('\n', '%0A')))
             elif sys.argv[1] == '--commit-sign':
-                pass
+                # A hack to keep js indentation
+                commit_signature(new_signature[:-1] + '\t}')
         else:
             raise Exception("No arguments provided")
     except Exception as e:
