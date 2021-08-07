@@ -4808,11 +4808,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Erika York",
-		url: "https://github.com/LegalBlogette",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Bill D. Herman",
 		url: "https://github.com/shoutingloudly",
 		affil: "Metropolitan State University of Denver",
@@ -18681,11 +18676,6 @@ let individuals = [
 	}, {
 		"name": "Daniel Abrecht",
 		"url": "https://github.com/Daniel-Abrecht",
-		"affil": "Individual",
-		"expert": false
-	}, {
-		"name": "Markus Ylitalo",
-		"url": "https://github.com/Markusyli",
 		"affil": "Individual",
 		"expert": false
 	}, {
