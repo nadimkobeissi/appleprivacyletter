@@ -8,6 +8,288 @@ let individuals = [
 	},
 	*/
 	{
+		name: "Alec brunelle",
+		url: "https://twitter.com/yourboybigal",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Chris",
+		url: "https://github.com/RecklessHavoc",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Alain",
+		url: "https://github.com/Scarfido",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Florian Smeets",
+		url: "https://github.com/fsmeets",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Nick Craske",
+		url: "https://twitter.com/nickcraske",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Francis Glacken",
+		url: "https://github.com/FrancisGlacken",
+		affil: "Today's Graphics Inc.",
+        expert: false
+    },
+    {
+		name: "Noah Emmet",
+		url: "https://github.com/noahemmet",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Nishai Kooverjee",
+		url: "https://github.com/nishai",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Jack Ryan",
+		url: "https://github.com/Jackryan76",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Diogo Marques",
+		url: "https://twitter.com/diogoexmarques",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Blake Karl Winter",
+		url: "https://github.com/BlakeKWinter",
+		affil: "Medaille College",
+        expert: false
+    },
+    {
+		name: "Michael Sherman",
+		url: "https://github.com/uwsherm",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Andreas Tacke",
+		url: "https://github.com/fiendie",
+		affil: "Software Developer",
+        expert: false
+    },
+    {
+		name: "Gavin McGraph",
+		url: "https://github.com/mcgraph",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Alexandre A.",
+		url: "https://twitter.com/Changeonslejeu",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Michael Moen",
+		url: "https://github.com/UnderpantsGnome",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Pat Sambor",
+		url: "https://github.com/Patlen123",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "David Ryan",
+		url: "https://github.com/ItsMeDave",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Kyle Johnston",
+		url: "https://twitter.com/KyleJohnstonNet",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Bill Chheu",
+		url: "https://github.com/BillChheu",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Luca Huettner",
+		url: "https://github.com/lucahuettner",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Vuk Micunovic",
+		url: "https://github.com/vukmicunovic",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Mario M",
+		url: "https://github.com/merrryo",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Gabriel K.",
+		url: "https://twitter.com/CorgiCynical",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Thomas Cioppettini",
+		url: "https://github.com/tomciopp",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Josiah Richeson",
+		url: "https://github.com/Chromoly4150",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Filip Sakel",
+		url: "https://github.com/filip-sakel",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Corbin Crutchley",
+		url: "https://crutchcorn.dev/",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Andy G",
+		url: "https://twitter.com/ZephrFish",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Clément V.",
+		url: "https://github.com/AllowOunet",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Alec C",
+		url: "https://github.com/Ajc1233",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Mac Arthur",
+		url: "https://github.com/ArtviewTeam",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Amanda L Scoggins",
+		url: "https://github.com/wannabe-elf",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "David Shepperton",
+		url: "https://github.com/dshepperton",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Jakub Knytl",
+		url: "https://github.com/knytl",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Daniel Jonsson",
+		url: "https://github.com/danielj42",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Lawrence Thornton",
+		url: "https://github.com/DoubleP2k",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Raviksan Navaratnarajah",
+		url: "https://github.com/indexrn",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Jared Burnett",
+		url: "https://twitter.com/qptc12",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Dylan Moore",
+		url: "https://github.com/dymoo",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Garpur Dagsson",
+		url: "https://github.com/garpur",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Ludwig Guerin",
+		url: "https://www.ludwig-guerin.fr/",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Moe",
+		url: "https://github.com/Nobleone9oneone",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Olaf R.",
+		url: "https://github.com/aprfx",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Bastien",
+		url: "https://github.com/blecl",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Jerlion Parks-McGee",
+		url: "https://github.com/Jdot22",
+		affil: "Individual",
+        expert: false
+    },
+    {
+		name: "Krystof Hanslik",
+		url: "https://github.com/Plarome",
+		affil: "Individual",
+        expert: false
+    },
+	{
 		name: "Igor Aguiar",
 		url: "https://github.com/igorlaguiar",
 		affil: "Individual",
