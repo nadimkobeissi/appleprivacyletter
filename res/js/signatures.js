@@ -15555,7 +15555,7 @@ let individuals = [
 	}, {
 		"name": "Hajo Krabbenhöft",
 		"url": "https://github.com/fxtentacle",
-		"affil": "Apple Customer &amp; App Developer",
+		"affil": "Apple Customer & App Developer",
 		"expert": false
 	}, {
 		"name": "Dan",
@@ -19081,7 +19081,7 @@ let individuals = [
 	}, {
 		"name": "Matt Smith",
 		"url": "https://github.com/Harmelodic",
-		"affil": "Software Engineer &amp; User of Apple products",
+		"affil": "Software Engineer & User of Apple products",
 		"expert": false
 	}, {
 		"name": "Gerben de Graaf",
@@ -19306,7 +19306,7 @@ let individuals = [
 	}, {
 		"name": "Peter Mackey",
 		"url": "https://github.com/Peter-Mackey",
-		"affil": "IT Engineer &amp; Apple Developer",
+		"affil": "IT Engineer & Apple Developer",
 		"expert": false
 	}, {
 		"name": "Lauri Saarinen",
@@ -21746,7 +21746,7 @@ let individuals = [
 	}, {
 		"name": "the_4n0nym0u53",
 		"url": "https://github.com/4n0nym0u53",
-		"affil": "Software Development Student &amp; Privacy and Security Advocate",
+		"affil": "Software Development Student & Privacy and Security Advocate",
 		"expert": false
 	}, {
 		"name": "Matthew Lubin",
