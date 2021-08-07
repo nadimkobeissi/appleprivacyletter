@@ -9703,11 +9703,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Matt Parker",
-		url: "https://github.com/Metalphatboy",
-		affil: "User",
-		expert: false
-	}, {
 		name: "Joe. L",
 		url: "https://None",
 		affil: "None",
