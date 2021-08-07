@@ -6483,11 +6483,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "a3r0",
-		url: "https://github.com/ghost",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Brock Warren",
 		url: "https://github.com/SpyGuyMcFly",
 		affil: "Individual",
@@ -6585,11 +6580,6 @@ let individuals = [
 	}, {
 		name: "Michaël",
 		url: "https://github.com/holodarkmust",
-		affil: "Individual",
-		expert: false
-	}, {
-		name: "Kaija Anderson",
-		url: "https://github.com/ghost",
 		affil: "Individual",
 		expert: false
 	}, {
@@ -7817,12 +7807,7 @@ let individuals = [
 		url: "https://github.com/Spooky063",
 		affil: "Individual",
 		expert: false
-	}, {
-		name: "Jake Young",
-		url: "https://github.com/ghost",
-		affil: "Customer",
-		expert: false
-	}, {
+	},  {
 		name: "Tyler R.",
 		url: "https://github.com/ninjawarrior1337",
 		affil: "Individual",
@@ -9413,11 +9398,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Jake Rich",
-		url: "https://github.com/ghost",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Stephen Hopper",
 		url: "https://github.com/Hopstradamus",
 		affil: "Individual",
@@ -9466,11 +9446,6 @@ let individuals = [
 		name: "Alex Tuten",
 		url: "https://github.com/alxj210",
 		affil: "Consumer",
-		expert: false
-	}, {
-		name: "Neil",
-		url: "https://github.com/ghost",
-		affil: "Individual",
 		expert: false
 	}, {
 		name: "alexei k",
@@ -14883,11 +14858,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Travis",
-		url: "https://github.com/ghost",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Chris Scifres",
 		url: "https://github.com/Kuzoro",
 		affil: "Individual",
@@ -18069,11 +18039,6 @@ let individuals = [
 		"affil": "Personal",
 		"expert": false
 	}, {
-		"name": "ROGUSZKA Stephane",
-		"url": "https://github.com/ghost",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Ruizhe Deng",
 		"url": "https://github.com/rxd330",
 		"affil": "Individual",
@@ -18679,11 +18644,6 @@ let individuals = [
 		"affil": "Individual",
 		"expert": false
 	}, {
-		"name": "Daniel Abrecht",
-		"url": "https://github.com/Daniel-Abrecht",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Kyri Nicolai",
 		"url": "https://github.com/klonic",
 		"affil": "Individual",
@@ -18921,11 +18881,6 @@ let individuals = [
 	}, {
 		"name": "Liza Moskovskaya",
 		"url": "https://github.com/lizmoscow",
-		"affil": "Individual",
-		"expert": false
-	}, {
-		"name": "Sarah Hodgens",
-		"url": "https://github.com/ghost",
 		"affil": "Individual",
 		"expert": false
 	}, {
