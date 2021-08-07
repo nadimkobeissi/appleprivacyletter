@@ -18868,6 +18868,81 @@ let individuals = [
 		"url": "https://github.com/hulloanson",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Gianluigi",
+		"url": "https://github.com/calca",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Robert Hubinak",
+		"url": "https://github.com/rhubinak",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Florian Heiber",
+		"url": "https://github.com/flohei",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Pietro Morri",
+		"url": "github.com/preeemo",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Mike Hendrickson",
+		"url": "https://github.com/hendrmi",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Daniel Önnerby",
+		"url": "https://github.com/onnerby",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jos Yule",
+		"url": "https://github.com/hyakugei",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Devin Prater",
+		"url": "https://github.com/devinprater",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Scott Solko",
+		"url": "https://github.com/RoutoRooter",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jan Van Cauwenberge",
+		"url": "https://github.com/JanVanC",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tatiana Moroz",
+		"url": "https://github.com/TatianaMoroz",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Gerrit Niezen",
+		"url": "https://github.com/gniezen",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Stephen Peterkins",
+		"url": "https://github.com/BearGuy",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Partha Sarathy T",
+		"url": "https://github.com/rohinidevit",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Liza Moskovskaya",
+		"url": "https://github.com/lizmoscow",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
