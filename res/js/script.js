@@ -15782,6 +15782,41 @@ let individuals = [
 		"url": "https://github.com/Ahlberto",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Robin Kluysse",
+		"url": "https://github.com/NoticeRobin",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jérôme Schmitt",
+		"url": "https://github.com/jaykyll",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Richard Stocks",
+		"url": "@TheRealRichii",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Kalle",
+		"url": "https://github.com/KaffeMedFika",
+		"affil": "Website Developer",
+		"expert": false
+	}, {
+		"name": "Famiu Haque",
+		"url": "https://github.com/famiu",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Andrii Pohrebniak",
+		"url": "https://github.com/apohrebniak",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Rob",
+		"url": "https://github.com/AshidaSRS",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
