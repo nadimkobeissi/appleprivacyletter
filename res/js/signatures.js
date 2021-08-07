@@ -23203,5 +23203,20 @@ let individuals = [
 		"url": "https://github.com/Layalb",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Conor McClure",
+		"url": "https://github.com/conorjmcclure",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Clément Aillery",
+		"url": "https://github.com/AilleryC",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Excigma",
+		"url": "https://github.com/Excigma",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
