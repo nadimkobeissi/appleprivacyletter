@@ -19070,15 +19070,17 @@ window.addEventListener("load", () => {
 	individuals.forEach((individual) => {
 		let li = document.createElement("li")
 		let a = document.createElement("a")
-		// let span = document.createElement("span")
+		let span = document.createElement("span")
+		let br = document.createElement("br")
 		if (individual.expert) {
 			li.classList.add("expert")
 		}
 		a.href = individual.url
 		a.innerText = individual.name
-		// span.innerText = `, ${individual.affil}`
+		span.innerText = `${individual.affil}`
 		li.appendChild(a)
-		// li.appendChild(span)
+		li.appendChild(br)
+		li.appendChild(span)
 		olIndividuals.appendChild(li)
 	})
 })

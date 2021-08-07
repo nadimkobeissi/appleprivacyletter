@@ -86,7 +86,7 @@ div#main div#signatures div#individualsHeader {
 }
 
 div#main div#signatures ol#individuals {
-	column-count: 4;
+	column-count: 6;
 	font-size: 0.7em;
 	margin: 0 auto;
 	display: block;
