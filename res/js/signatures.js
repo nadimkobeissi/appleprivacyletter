@@ -10928,11 +10928,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Simone Yeomi",
-		url: "https://github.com/SimoneYeomi",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Arrio Gonsalves",
 		url: "https://twitter.com/adgarrio",
 		affil: "Individual",
@@ -10945,11 +10940,6 @@ let individuals = [
 	}, {
 		name: "Eric Guo",
 		url: "https://github.com/lintroller226",
-		affil: "Individual",
-		expert: false
-	}, {
-		name: "Simone Yeomi",
-		url: "https://github.com/SimoneYeomi",
 		affil: "Individual",
 		expert: false
 	}, {
