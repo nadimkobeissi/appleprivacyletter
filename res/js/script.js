@@ -14637,6 +14637,11 @@ let individuals = [
 		"url": "https://github.com/atomedon",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Jan Gubler",
+		"url": "https://github.com/CaminanteBlanco",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
