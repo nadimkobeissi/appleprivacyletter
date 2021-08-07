@@ -15642,6 +15642,11 @@ let individuals = [
 		url: "https://github.com/powerdan",
 		affil: "Concerned Apple Fanatic",
 		expert: false
+	}, {
+		"name": "Christopher Kvarme",
+		"url": "https://github.com/risto1913",
+		"affil": "Developer",
+		"expert": false
 	}
 ]
 
