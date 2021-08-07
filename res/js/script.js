@@ -12153,6 +12153,336 @@ let individuals = [
 		"url": "https://github.com/smithed",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Aidan Walden",
+		"url": "https://github.com/aidan-walden",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jan",
+		"url": "https://github.com/javae",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Chris Y",
+		"url": "https://github.com/handypockets",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Claus Hagen",
+		"url": "https://github.com/cshagen",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Pablo",
+		"url": "https://github.com/OSTurtle",
+		"affil": "Customer",
+		"expert": false
+	}, {
+		"name": "Amanda Wixted",
+		"url": "https://github.com/commanda",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jackson Thibodeau",
+		"url": "https://github.com/Jackson19283",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "HaoBing",
+		"url": "https://github.com/HaoBing90",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Ильяс Якубов",
+		"url": "https://github.com/ilyasyakubov",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Carlos Mejia",
+		"url": "elmejilloncito",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Hendrik Schlange",
+		"url": "https://github.com/heshsum",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jonaa",
+		"url": "https://github.com/j182dell",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Josephino Richardson",
+		"url": "https://github.com/JosephinoRichardson",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "John Herbert",
+		"url": "https://github.com/JohnHerbertDev",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sebastian Hagen",
+		"url": "https://github.com/bastifried",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Nawaf Bajwa",
+		"url": "https://github.com/NawafBajwa",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Riyad Alalami",
+		"url": "@riyadhelaladmi",
+		"affil": "Software Engineer Robotire",
+		"expert": false
+	}, {
+		"name": "Joshua Shi",
+		"url": "https://github.com/kittyjosh111",
+		"affil": "Student",
+		"expert": false
+	}, {
+		"name": "Andreas",
+		"url": "https://github.com/Ascn89",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Steve Pye",
+		"url": "https://github.com/daemontroll",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Alec Slagle",
+		"url": "https://github.com/alecmartin01",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dallas Privacy Initiative",
+		"url": "https://github.com/DallasPrivacyInitiative",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Martin Apel",
+		"url": "https://github.com/martin5233",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dewald Reynecke",
+		"url": "https://github.com/dewaldreynecke",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Max Roeleveld",
+		"url": "https://github.com/doenietzomoeilijk",
+		"affil": "Developer",
+		"expert": false
+	}, {
+		"name": "Brad Buhrkuhl",
+		"url": "https://github.com/bl0rq",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Nikos",
+		"url": "https://github.com/Staklarm",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Mike C",
+		"url": "https://github.com/mgacummings",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Cody Gipson",
+		"url": "https://github.com/codythenoble",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Owen Blacker",
+		"url": "https://github.com/owenblacker",
+		"affil": "co-founder, Open Rights Group",
+		"expert": false
+	}, {
+		"name": "Mathieu Schimmerling",
+		"url": "https://github.com/matschik",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Nikola Majksner",
+		"url": "https://github.com/majksner",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Sainyam Kapoor",
+		"url": "https://github.com/saikpr",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jaime",
+		"url": "@Jampants2",
+		"affil": "None",
+		"expert": false
+	}, {
+		"name": "Sergey A. Novitsky",
+		"url": "https://github.com/flockoffiles",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "william wang",
+		"url": "twitter.com/#!/WilliamVVang",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Anna A.",
+		"url": "https://github.com/RNKnight1",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jason Hung",
+		"url": "https://github.com/jasonhlhung",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Holger Dewes",
+		"url": "https://github.com/holgerde",
+		"affil": "iOS Software Engineer",
+		"expert": false
+	}, {
+		"name": "Edwin Calderon",
+		"url": "https://github.com/edwinxcal",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Daniel Černoch",
+		"url": "https://github.com/DanielCernoch",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Joshua Jacobs",
+		"url": "Twitter",
+		"affil": "None",
+		"expert": false
+	}, {
+		"name": "Cory Cooper",
+		"url": "Twitter.com/yroc92",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Winston Griffin",
+		"url": "https://github.com/NightmanCometh96",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Jeff B",
+		"url": "https://github.com/loadedmodg",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "AK",
+		"url": "https://github.com/alexkwa",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Chloe Holmes",
+		"url": "@TheRattyGirl",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Akshat",
+		"url": "Akczht",
+		"affil": "Akshat",
+		"expert": false
+	}, {
+		"name": "Mathis Hesse",
+		"url": "https://github.com/daMatz",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Michael Ward",
+		"url": "https://github.com/intelligentandgoodlooking",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Aditya Singh",
+		"url": "https://github.com/Aditya1001001",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Fahad Billah",
+		"url": "https://github.com/fahadbillah",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Chris L",
+		"url": "https://github.com/256colour",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Joachim Baumann",
+		"url": "https://github.com/jbaumann",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Tim Mackey",
+		"url": "https://github.com/timdmackey",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Talih Younes",
+		"url": "@YoTalih",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Dynamo Software",
+		"url": "dynamo-software.de",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Adam Wood",
+		"url": "@woodadammr",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Lukas Z.",
+		"url": "https://github.com/CptLala",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Krushi Raj Tula",
+		"url": "twitter.com/krushiraj123",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Ted Hart-Davis",
+		"url": "https://github.com/TedsterTech",
+		"affil": "Cybersecurity & Forensics Student at Edinburgh Napier University",
+		"expert": false
+	}, {
+		"name": "Jose Castillo",
+		"url": "https://github.com/castillo6",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Matthew Brunetti",
+		"url": "https://github.com/iambubba123",
+		"affil": "iPhone user",
+		"expert": false
+	}, {
+		"name": "Naidoo F.",
+		"url": "https://github.com/one-github",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Joshua Ashton",
+		"url": "https://github.com/Joshua-Ashton",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Andy Georges",
+		"url": "https://github.com/itkovian",
+		"affil": "Ghent University",
+		"expert": false
 	}
 ]
 
