@@ -6,7 +6,7 @@ on:
     types:
       - labeled
 jobs:
-  add-preview:
+  preview:
     if: github.event.label.name == 'signature'
     runs-on: ubuntu-latest
     permissions:
@@ -21,9 +21,11 @@ jobs:
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_AUTHOR_URL: ${{ github.event.issue.user.html_url }}
-        run: echo "::set-output name=preview::$(python3 .github/workflows/bin/sign_handler.py --compose-message)"
+        run: |
+          echo "::set-output name=preview::$(python3 .github/workflows/bin/sign_handler.py --compose-message)"
       - name: Add comment
         uses: peter-evans/create-or-update-comment@aec0e42814d0a561127d0eb2cc37cfdde6c60756
         with:
           issue-number: ${{ github.event.issue.number }}
-          body: ${{ steps.compose.outputs.preview }}
+          body: |
+            ${{ steps.compose.outputs.preview }}

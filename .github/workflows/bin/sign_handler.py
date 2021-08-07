@@ -10,9 +10,9 @@ DEFAULT_URL = os.environ.get("ISSUE_AUTHOR_URL")
 
 
 def parse_body() -> str:
-    REGEX = r"### Name\\n\\n(?P<name>.*)\\n\\n### Affiliation\\n\\n(?P<affil>.*)\\n\\n### Website\/Twitter\/etc.\\n\\n(?P<url>.*)\\n\\n###"
+    REGEX = r"### Name\s+(?P<name>.*)\s+### Affiliation\s+(?P<affil>.*)\s+### Website\/Twitter\/etc.\s+(?P<url>.*)\s+###"
     issue_body = os.environ.get("ISSUE_BODY")
-    match = re.match(REGEX, issue_body)
+    match = re.match(REGEX, issue_body, re.MULTILINE)
 
     result = {"name": "", "url": DEFAULT_URL, "affil": DEFAULT_AFFIL, "expert": False}
 
@@ -34,9 +34,10 @@ def parse_body() -> str:
     return json.dumps(result, indent="\t")
 
 def compose_message(signature: str) -> str:
-    msg = 'This new signature request can be auto-merged. To merge the following changes, replace the label of issue with `signature-approved`.\n\n```json\n'
+    # %0A is an escaped newline character
+    msg = 'To auto-merge the following signature, replace the label of issue with `signature-approved`.%0A%0A```json%0A'
     msg += signature
-    msg += '\n```'
+    msg += '%0A```'
     return msg
 
 def main():
@@ -44,7 +45,7 @@ def main():
         new_signature = parse_body()
         if len(sys.argv) > 1:
             if sys.argv[1] == '--compose-message':
-                print(compose_message(new_signature))
+                print(compose_message(new_signature.replace('\n', '%0A')))
             elif sys.argv[1] == '--commit-sign':
                 pass
         else:
