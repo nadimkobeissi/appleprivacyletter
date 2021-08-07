@@ -7061,7 +7061,7 @@ let individuals = [
 	}, {
 		"name": "the_4n0nym0u53",
 		"url": "https://github.com/4n0nym0u53",
-		"affil": "Software Development Student and Privacy &amp; Security Advocate",
+		"affil": "Software Development Student and Privacy & Security Advocate",
 		"expert": false
 	}, {
 		"name": "Anders Johansson",
@@ -8241,7 +8241,7 @@ let individuals = [
 	}, {
 		"name": "Peer Dicken",
 		"url": "https://github.com/peerdicken",
-		"affil": "Photographer &amp; Web Designer",
+		"affil": "Photographer & Web Designer",
 		"expert": false
 	}, {
 		"name": "Kristóf Marussy",
