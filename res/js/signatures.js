@@ -18738,6 +18738,36 @@ let individuals = [
 		"url": "",
 		"affil": "Individual",
 		"expert": false
+	}, {
+		"name": "Bastian Fredriksson",
+		"url": "",
+		"affil": "URL of your Website/Twitter/etc.",
+		"expert": false
+	}, {
+		"name": "Greg Maxwell",
+		"url": "",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "DAUVIN Jimmy",
+		"url": "",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Yoann",
+		"url": "",
+		"affil": "Individual",
+		"expert": false
+	}, {
+		"name": "Matteo Maffei",
+		"url": "",
+		"affil": "TU Wien",
+		"expert": false
+	}, {
+		"name": "Frank Buss",
+		"url": "",
+		"affil": "Individual",
+		"expert": false
 	}
 ]
 
