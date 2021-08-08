@@ -26176,7 +26176,7 @@ let individuals = [
 	}, {
 		"name": "Frederik Möllers",
 		"url": "https://github.com/frederikmoellers",
-		"affil": "Saarbrücker Zentrum für Recht und Digitalisierung &amp; Defendo IT GmbH",
+		"affil": "Saarbrücker Zentrum für Recht und Digitalisierung & Defendo IT GmbH",
 		"expert": false
 	}, {
 		"name": "Cédric Uden",
@@ -28116,7 +28116,7 @@ let individuals = [
 	}, {
 		"name": "Rob Kowalski",
 		"url": "https://github.com/misubear",
-		"affil": "IT Security &amp; network professional",
+		"affil": "IT Security & network professional",
 		"expert": false
 	}, {
 		"name": "Luke Mulks",
@@ -28216,7 +28216,7 @@ let individuals = [
 	}, {
 		"name": "Paul Coe",
 		"url": "https://github.com/paulcoe",
-		"affil": "Sr. Software Eng., Infrastructure &amp; Security @ Tesla, Inc.",
+		"affil": "Sr. Software Eng., Infrastructure & Security @ Tesla, Inc.",
 		"expert": false
 	}, {
 		"name": "Javier Sanchez",
