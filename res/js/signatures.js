@@ -25642,7 +25642,7 @@ let individuals = [
 		"name": "Olivier Blazy",
 		"url": "https://github.com/oblazy",
 		"affil": "Limoges University",
-		"expert": false
+		"expert": true
 	}, {
 		"name": "Everest Oreizy",
 		"url": "everestoreizy.me",
