@@ -15940,7 +15940,7 @@ let individuals = [
 	}, {
 		"name": "Amelia S.",
 		"url": "https://github.com/Exerra",
-		"affil": "Heavy Apple user and iOS app developer",
+		"affil": "Apple user, iOS developer",
 		"expert": false
 	}, {
 		"name": "Daniel Gilbert",
