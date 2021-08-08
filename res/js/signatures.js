@@ -18584,11 +18584,6 @@ let individuals = [
 		"affil": "Individual",
 		"expert": false
 	}, {
-		"name": "Minh Trung Nguyen",
-		"url": "https://github.com/jamesnmt",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Markus Ylitalo",
 		"url": "https://github.com/Markusyli",
 		"affil": "Individual",
