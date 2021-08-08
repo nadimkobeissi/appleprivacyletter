@@ -14,7 +14,7 @@ body:
      label: Affiliation
  - type: input
    attributes:
-     label: URL of your Website/Twitter/etc. (You MUST Prefix URL with http(s)://)
+     label: URL of your Website/Twitter/etc. You MUST Prefix URL with http(s)://
  - type: checkboxes
    attributes:
      options:
