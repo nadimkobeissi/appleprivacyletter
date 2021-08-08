@@ -7928,11 +7928,6 @@ let individuals = [
 		affil: "Individual",
 		expert: false
 	}, {
-		name: "Individual",
-		url: "https://github.com/ksinon",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Jonathan Crissey",
 		url: "https://github.com/joncrissey",
 		affil: "customer",
@@ -9771,11 +9766,6 @@ let individuals = [
 		name: "Andrew D Williams",
 		url: "https://github.com/andcen",
 		affil: "Shareholder",
-		expert: false
-	}, {
-		name: "Individual",
-		url: "https://github.com/MCCorrado",
-		affil: "Individual",
 		expert: false
 	}, {
 		name: "Scotty",
