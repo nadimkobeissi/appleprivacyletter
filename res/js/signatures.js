@@ -18396,7 +18396,7 @@ let individuals = [
 	}, {
 		"name": "Carlos Suberviola Oroz",
 		"url": "https://github.com/csoroz",
-		"affil": "Apple user seriously considering switching to another platform.",
+		"affil": "Individual",
 		"expert": false
 	}, {
 		"name": "Romain Bailly",
