@@ -22205,7 +22205,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Quinten James",
-		"url": "QuintenJames.com",
+		"url": "https://www.quintenjames.com",
 		"affil": "IT Professional/Developer",
 		"expert": false
 	}, {
@@ -22350,7 +22350,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Quinten James",
-		"url": "SwiftyNodes.com",
+		"url": "https://www.swiftynodes.com",
 		"affil": "Swifty Nodes IT Solutions",
 		"expert": false
 	}, {
