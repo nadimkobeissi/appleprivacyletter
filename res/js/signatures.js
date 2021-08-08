@@ -19895,7 +19895,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Julien Ducos",
-		"url": "Twitter.com/<em>JuCos</em>",
+		"url": "https://twitter.com/jucos",
 		"affil": "Individual",
 		"expert": false
 	}, {
@@ -22951,12 +22951,12 @@ let individuals = [
 	}, {
 		"name": "Calin Culianu",
 		"url": "https://github.com/cculianu",
-		"affil": "C3 Software &amp; Bitcoin Cash Node",
+		"affil": "C3 Software & Bitcoin Cash Node",
 		"expert": false
 	}, {
 		"name": "PrivacyMap",
 		"url": "https://github.com/piovitor",
-		"affil": "<em>Founder</em>",
+		"affil": "Founder",
 		"expert": false
 	}, {
 		"name": "Kevin Walter",
