@@ -25499,11 +25499,6 @@ let individuals = [
 		"affil": "Individual",
 		"expert": false
 	}, {
-		"name": "Collectif onestla.tech",
-		"url": "https://github.com/dunglas",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Chris",
 		"url": "https://github.com/BlockChainDog",
 		"affil": "Individual",
