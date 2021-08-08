@@ -23354,11 +23354,6 @@ let individuals = [
 		"affil": "Founder and CxO, Rivet",
 		"expert": false
 	}, {
-		"name": "\n<li></li>\n",
-		"url": "https://github.com/janisakovic",
-		"affil": "\n<li></li>\n",
-		"expert": false
-	}, {
 		"name": "Christian Parsons",
 		"url": "https://github.com/cmparsons",
 		"affil": "Individual",
