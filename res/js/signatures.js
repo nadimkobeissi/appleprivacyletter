@@ -23420,7 +23420,7 @@ let individuals = [
 		"expert": false
 	}, {
 		"name": "Julian Fairfax",
-		"url": "julianfairfax.gitlab.io",
+		"url": "https://julianfairfax.gitlab.io",
 		"affil": "Individual",
 		"expert": false
 	}, {
