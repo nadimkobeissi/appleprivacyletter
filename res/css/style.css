@@ -29,7 +29,7 @@ div#main div#heading {
 div#main div#heading img#logo {
 	width: 18vw;
 	height: auto;
-	border-radius: 4vw;
+	border-radius: 1vw;
 	border: 5px solid #FAFAFA;
 	box-shadow: 0 0 10px rgba(50, 50, 50, 0.2);
 	float: left;
