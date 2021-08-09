@@ -29741,7 +29741,7 @@ let individuals = [{
 }, {
 	"name": "Zara Gebru",
 	"url": "https://github.com/zariye",
-	"affil": "Software Developer &amp; Consultant",
+	"affil": "Software Developer",
 	"expert": false
 }, {
 	"name": "Ba1977",
@@ -30362,11 +30362,6 @@ let individuals = [{
 	"name": "Daniel Rauber",
 	"url": "https://github.com/rauberdaniel",
 	"affil": "Individual",
-	"expert": false
-}, {
-	"name": "Kieffer",
-	"url": "\n<li></li>\n",
-	"affil": "\n<li></li>\n",
 	"expert": false
 }, {
 	"name": "Emma Howard",
@@ -32926,7 +32921,7 @@ let individuals = [{
 }, {
 	"name": "Paul Jacobs",
 	"url": "https://github.com/codehearted",
-	"affil": "iOS &amp; Mac Developer, Apple User since 1985",
+	"affil": "iOS & Mac Developer",
 	"expert": false
 }, {
 	"name": "Nicolas Mendes",
