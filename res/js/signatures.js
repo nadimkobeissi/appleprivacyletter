@@ -20804,10 +20804,10 @@ let individuals = [
 		"affil": "Developer",
 		"expert": false
 	}, {
-		"name": "Possible Security",
-		"url": "https://github.com/0ki",
-		"affil": "Individual",
-		"expert": false
+		"name": "Kirils Solovjovs",
+		"url": "https://kirils.org/",
+		"affil": "Privacy Researcher",
+		"expert": true
 	}, {
 		"name": "Alex Paraskos",
 		"url": "https://github.com/alexparaskos",
