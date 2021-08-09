@@ -41,15 +41,24 @@
 				}
 				return 0
 			})
+
+			function urlify(address) {
+				if (!/^(?:f|ht)tps?\:\/\//.test(address)) {
+					address = "http://" + address;
+				}
+				return address;
+			}
+
 			individuals.forEach((individual) => {
 				let li = document.createElement("li")
 				let a = document.createElement("a")
+				a.setAttribute("target", "_blank")
 				let span = document.createElement("span")
 				let br = document.createElement("br")
 				if (individual.expert) {
 					li.classList.add("expert")
 				}
-				a.href = individual.url
+				a.href = urlify(individual.url)
 				a.innerText = individual.name
 				span.innerText = `${individual.affil}`
 				li.appendChild(a)
@@ -69,7 +78,7 @@
 			<h1>An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology</h1>
 			<h2>Security &amp; Privacy Experts, Cryptographers, Researchers, Professors, Legal Experts and Apple Consumers Decry Apple's Planned Move to Undermine User Privacy and End-to-End Encryption</h2>
 			<p>
-				&rarr; <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues/new?assignees=nadimkobeissi&labels=signature&template=sign-letter.yml&title=%5BSIGN%5D+Your+Name+Here">Sign the letter via GitHub</a>.
+				&rarr; <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues/new?assignees=nadimkobeissi&labels=signature&template=sign-letter.yml&title=%5BSIGN%5D+Your+Name+Here" target="_blank">Sign the letter via GitHub</a>.
 			</p>
 		</div>
 		<div id="letter">
@@ -114,7 +123,7 @@
 				&ldquo;If Apple are successful in introducing this, how long do you think it will be before the same is expected of other providers? Before walled-garden prohibit apps that don't do it? Before it is enshrined in law? How long do you think it will be before the database is expanded to include "terrorist" content"? "harmful-but-legal" content"? state-specific censorship?&rdquo;
 			</blockquote>
 			<p>
-				Dr. Nadim Kobeissi, a researcher in Security &amp; Privacy issues, <a href="https://twitter.com/kaepora/status/1423388549529968645">warned</a>:
+				Dr. Nadim Kobeissi, a researcher in Security &amp; Privacy issues, <a href="https://twitter.com/kaepora/status/1423388549529968645" target="_blank">warned</a>:
 			</p>
 			<blockquote>
 				&ldquo;Apple sells iPhones without FaceTime in Saudi Arabia, because local regulation prohibits encrypted phone calls. That's just one example of many where Apple's bent to local pressure. What happens when local regulations in Saudi Arabia mandate that messages be scanned not for child sexual abuse, but for homosexuality or for offenses against the monarchy?&rdquo;
@@ -157,52 +166,52 @@
 				<h2>Signatures</h2>
 				<h3>Organizations</h3>
 				<p>
-					&rarr; <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues/new?assignees=nadimkobeissi&labels=signature&template=sign-letter.yml&title=%5BSIGN%5D+Your+Name+Here">Sign the letter via GitHub</a>.
+					&rarr; <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues/new?assignees=nadimkobeissi&labels=signature&template=sign-letter.yml&title=%5BSIGN%5D+Your+Name+Here" target="_blank">Sign the letter via GitHub</a>.
 				</p>
 			</div>
 			<ul id="organizations">
-				<li><a href="https://www.alphachaincapital.co.uk/">Alphachain Capital</a></li>
-				<li><a href="https://twitter.com/CalypsoHost">Calypso IT Services GmbH</a></li>
-				<li><a href="https://chaos-siegen.de">Chaos Computer Club Siegen e. V.</a></li>
-				<li><a href="https://onestla.tech">Collectif Onestla.tech</a></li>
-				<li><a href="https://collegroup.com">Collé Group, LLC</a></li>
-				<li><a href="https://cryptomator.org/">Cryptomator</a></li>
-				<li><a href="https://www.dotplex.com">dotplex Secure Hosting</a></li>
-				<li><a href="https://freedom.press">Freedom of the Press Foundation</a></li>
-				<li><a href="https://gigahost.uk">Gigahost</a></li>
-				<li><a href="https://digitalhumanrights.blog">Giordano Bruno Foundation</a></li>
-				<li><a href="https://gun.eco">GUN</a></li>
-				<li><a href="https://ivpn.net">IVPN</a></li>
-				<li><a href="https://knowledgeatwork.eu">knowledgeatwork UG</a></li>
-				<li><a href="https://latencyzero.com">Latency: Zero, LLC</a></li>
-				<li><a href="https://macdailynews.com">MacDailyNews</a></li>
-				<li><a href="https://mentorlycon.com">MentorLycon</a></li>
-				<li><a href="https://www.mojeek.com">Mojeek</a></li>
-				<li><a href="https://www.netsite.dk">Netsite A/S</a></li>
-				<li><a href="https://nypl.org">The New York Public Library</a></li>
-				<li><a href="https://nixnet.services">NixNet</a></li>
-				<li><a href="https://nrbtech.io">NRB Tech, Ltd.</a></li>
-				<li><a href="https://paylive.co">PayLive</a></li>
-				<li><a href="https://peergos.org">Peergos</a></li>
-				<li><a href="https://possiblesecurity.com">Possible Security</a></li>
-				<li><a href="https://privacy.foundation">Privacy Foundation</a></li>
-				<li><a href="https://www.route1337.com">Route 1337, LLC</a></li>
-				<li><a href="https://safenetworkforum.org">Safe Network Forum</a></li>
-				<li><a href="https://sig.dev">SIGDEV LLC</a></li>
-				<li><a href="https://small-tech.org">Small Technology Foundation</a></li>
-				<li><a href="https://www.swiftynodes.com">Swifty Nodes IT Solutions</a></li>
-				<li><a href="https://www.sym.bio">SymbioSystems LLC</a></li>
-				<li><a href="https://www.thinkprivacy.ch">ThinkPrivacy</a></li>
-				<li><a href="https://webtorrent.io">WebTorrent</a></li>
-				<li><a href="https://xeovo.com">Xeovo VPN</a></li>
+				<li><a href="https://www.alphachaincapital.co.uk/" target="_blank">Alphachain Capital</a></li>
+				<li><a href="https://twitter.com/CalypsoHost" target="_blank">Calypso IT Services GmbH</a></li>
+				<li><a href="https://chaos-siegen.de" target="_blank">Chaos Computer Club Siegen e. V.</a></li>
+				<li><a href="https://onestla.tech" target="_blank">Collectif Onestla.tech</a></li>
+				<li><a href="https://collegroup.com" target="_blank">Collé Group, LLC</a></li>
+				<li><a href="https://cryptomator.org/" target="_blank">Cryptomator</a></li>
+				<li><a href="https://www.dotplex.com" target="_blank">dotplex Secure Hosting</a></li>
+				<li><a href="https://freedom.press" target="_blank">Freedom of the Press Foundation</a></li>
+				<li><a href="https://gigahost.uk" target="_blank">Gigahost</a></li>
+				<li><a href="https://digitalhumanrights.blog" target="_blank">Giordano Bruno Foundation</a></li>
+				<li><a href="https://gun.eco" target="_blank">GUN</a></li>
+				<li><a href="https://ivpn.net" target="_blank">IVPN</a></li>
+				<li><a href="https://knowledgeatwork.eu" target="_blank">knowledgeatwork UG</a></li>
+				<li><a href="https://latencyzero.com" target="_blank">Latency: Zero, LLC</a></li>
+				<li><a href="https://macdailynews.com" target="_blank">MacDailyNews</a></li>
+				<li><a href="https://mentorlycon.com" target="_blank">MentorLycon</a></li>
+				<li><a href="https://www.mojeek.com" target="_blank">Mojeek</a></li>
+				<li><a href="https://www.netsite.dk" target="_blank">Netsite A/S</a></li>
+				<li><a href="https://nypl.org" target="_blank">The New York Public Library</a></li>
+				<li><a href="https://nixnet.services" target="_blank">NixNet</a></li>
+				<li><a href="https://nrbtech.io" target="_blank">NRB Tech, Ltd.</a></li>
+				<li><a href="https://paylive.co" target="_blank">PayLive</a></li>
+				<li><a href="https://peergos.org" target="_blank">Peergos</a></li>
+				<li><a href="https://possiblesecurity.com" target="_blank">Possible Security</a></li>
+				<li><a href="https://privacy.foundation" target="_blank">Privacy Foundation</a></li>
+				<li><a href="https://www.route1337.com" target="_blank">Route 1337, LLC</a></li>
+				<li><a href="https://safenetworkforum.org" target="_blank">Safe Network Forum</a></li>
+				<li><a href="https://sig.dev" target="_blank">SIGDEV LLC</a></li>
+				<li><a href="https://small-tech.org" target="_blank">Small Technology Foundation</a></li>
+				<li><a href="https://www.swiftynodes.com" target="_blank">Swifty Nodes IT Solutions</a></li>
+				<li><a href="https://www.sym.bio" target="_blank">SymbioSystems LLC</a></li>
+				<li><a href="https://www.thinkprivacy.ch" target="_blank">ThinkPrivacy</a></li>
+				<li><a href="https://webtorrent.io" target="_blank">WebTorrent</a></li>
+				<li><a href="https://xeovo.com" target="_blank">Xeovo VPN</a></li>
 			</ul>
 			<div id="individualsHeader">
 				<h3>Individuals</h3>
 				<p>
-					&rarr; <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues/new?assignees=nadimkobeissi&labels=signature&template=sign-letter.yml&title=%5BSIGN%5D+Your+Name+Here">Sign the letter via GitHub</a>.
+					&rarr; <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues/new?assignees=nadimkobeissi&labels=signature&template=sign-letter.yml&title=%5BSIGN%5D+Your+Name+Here" target="_blank">Sign the letter via GitHub</a>.
 				</p>
 				<p>
-					Not all individual signatories may appear below: <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues">some may still be awaiting review</a>.
+					Not all individual signatories may appear below: <a href="https://github.com/nadimkobeissi/appleprivacyletter/issues" target="_blank">some may still be awaiting review</a>.
 				</p>
 			</div>
 			<ol id="individuals">
