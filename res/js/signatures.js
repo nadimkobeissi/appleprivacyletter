@@ -30541,11 +30541,6 @@ let individuals = [
 		"affil": "Individual",
 		"expert": false
 	}, {
-		"name": "Xeovo VPN",
-		"url": "https://github.com/nkvname",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Daniel Buck",
 		"url": "https://github.com/Tealk",
 		"affil": "Individual",
