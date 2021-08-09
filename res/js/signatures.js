@@ -30384,11 +30384,6 @@ let individuals = [
 		"affil": "Individual",
 		"expert": false
 	}, {
-		"name": "Cryptomator",
-		"url": "https://github.com/SailReal",
-		"affil": "Individual",
-		"expert": false
-	}, {
 		"name": "Chaostreff Flensburg e.V.",
 		"url": "https://github.com/flemssound",
 		"affil": "Individual",
