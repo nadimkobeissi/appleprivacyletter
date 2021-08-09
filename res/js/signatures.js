@@ -13098,11 +13098,6 @@ let individuals = [
 		affil: "University of Oslo",
 		expert: false
 	}, {
-		name: "Adam Posker",
-		url: "https://github.com/Pos-Ki",
-		affil: "Individual",
-		expert: false
-	}, {
 		name: "Cedrick",
 		url: "https://github.com/Cedrick84",
 		affil: "Individual",
