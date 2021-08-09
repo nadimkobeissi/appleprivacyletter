@@ -10,19 +10,19 @@
   font-style: italic;
   font-weight: 700;
   font-display: swap;
-  src: url(stixtwotext1.ttf) format('truetype');
+  src: url(stixtwotext2.ttf) format('truetype');
 }
 @font-face {
   font-family: 'STIX Two Text';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(stixtwotext1.ttf) format('truetype');
+  src: url(stixtwotext3.ttf) format('truetype');
 }
 @font-face {
   font-family: 'STIX Two Text';
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url(stixtwotext1.ttf) format('truetype');
+  src: url(stixtwotext4.ttf) format('truetype');
 }
