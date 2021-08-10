@@ -15844,11 +15844,6 @@ let individuals = [{
 	"affil": "Individual",
 	"expert": false
 }, {
-	"name": "Matthew Ahrenstein",
-	"url": "https://www.ahrenstein.com/",
-	"affil": "Individual",
-	"expert": false
-}, {
 	"name": "Esther Payne",
 	"url": "https://github.com/onepict",
 	"affil": "Individual",
@@ -31867,11 +31862,6 @@ let individuals = [{
 	"name": "Sven Alleblas",
 	"url": "https://github.com/loyalOrange503",
 	"affil": "Customer / Computer+Mac repair technician",
-	"expert": false
-}, {
-	"name": "Ahrenn Sivananthan",
-	"url": "https://github.com/ahsivana",
-	"affil": "Individual",
 	"expert": false
 }, {
 	"name": "CrazyDave652",
