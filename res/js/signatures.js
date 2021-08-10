@@ -18839,11 +18839,6 @@ let individuals = [{
 	"affil": "ViWa Invest GmbH",
 	"expert": false
 }, {
-	"name": "Kris Nielsen",
-	"url": "https://github.com/krisnielsen",
-	"affil": "Individual",
-	"expert": false
-}, {
 	"name": "Aurélien",
 	"url": "https://github.com/aurelj",
 	"affil": "Individual",
