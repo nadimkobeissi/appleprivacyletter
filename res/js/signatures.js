@@ -5842,7 +5842,7 @@ let individuals = [{
 	"name": "Neal Krawetz",
 	"url": "https://github.com/hackerfactor",
 	"affil": "Hacker Factor",
-	"expert": false
+	"expert": true
 }, {
 	"name": "Hendrik S",
 	"url": "https://github.com/hoodie",
