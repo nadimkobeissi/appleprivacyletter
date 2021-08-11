@@ -33296,7 +33296,7 @@ let individuals = [{
 }, {
 	"name": "Max Mohammadi",
 	"url": "https://github.com/MaxMohammadi",
-	"affil": "Ernst &amp; Young, LLP",
+	"affil": "Ernst & Young, LLP",
 	"expert": false
 }, {
 	"name": "Eric Taylor",
@@ -33409,7 +33409,7 @@ let individuals = [{
 	"affil": "Individual",
 	"expert": false
 }, {
-	"name": "Lund&amp;co Aps",
+	"name": "Lund&co Aps",
 	"url": "Www.Lund-co.dk",
 	"affil": "Peter Lund",
 	"expert": false
@@ -33711,7 +33711,7 @@ let individuals = [{
 }, {
 	"name": "the_4n0nym0u53",
 	"url": "https://github.com/4n0nym0u53",
-	"affil": "Software Development Student &amp; Privacy and Security Advocate",
+	"affil": "Software Development Student & Privacy and Security Advocate",
 	"expert": false
 }, {
 	"name": "Rasiel Perez Castillo",
