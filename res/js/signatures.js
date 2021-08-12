@@ -38798,4 +38798,9 @@ let individuals = [{
 	"url": "https://github.com/junipertcy",
 	"affil": "University of Colorado Boulder",
 	"expert": false
+}, {
+	"name": "Michael Jason",
+	"url": "https://github.com/MichaelJason-dev",
+	"affil": "Individual",
+	"expert": false
 }]
