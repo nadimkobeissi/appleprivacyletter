@@ -18956,8 +18956,8 @@ let individuals = [{
 }, {
 	"name": "Devin DeCicco",
 	"url": "https://github.com/ddecicco767",
-	"affil": "The New York Public Library",
-	"expert": true
+	"affil": "Individual",
+	"expert": false
 }, {
 	"name": "Merouan Mekouar",
 	"url": "https://github.com/ProfMerouanM",
