@@ -39096,7 +39096,7 @@ let individuals = [{
 }, {
 	"name": "Geek For Gee",
 	"url": "https://github.com/FeletexGee",
-	"affil": "Can't agree more with the attempt against Apple's new Privacy Policy which in fact harms privacy.",
+	"affil": "Individual",
 	"expert": false
 }, {
 	"name": "Kaede",
