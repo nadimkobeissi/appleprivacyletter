@@ -29064,11 +29064,6 @@ let individuals = [{
 	"affil": "Individual",
 	"expert": false
 }, {
-	"name": "我是你爹",
-	"url": "https://github.com/Jindom",
-	"affil": "Individual",
-	"expert": false
-}, {
 	"name": "Eric K",
 	"url": "https://github.com/r-labs",
 	"affil": "Individual",
@@ -34491,11 +34486,6 @@ let individuals = [{
 }, {
 	"name": "Christian",
 	"url": "https://github.com/Xardas78",
-	"affil": "Individual",
-	"expert": false
-}, {
-	"name": "苹果孙贼 我是你爹",
-	"url": "https://github.com/tgzihg",
 	"affil": "Individual",
 	"expert": false
 }, {
@@ -41512,11 +41502,6 @@ let individuals = [{
 	"name": "Christoph Schneider",
 	"url": "https://github.com/gittigechaib",
 	"affil": "User since 1998",
-	"expert": false
-}, {
-	"name": "苹果我日你妈",
-	"url": "https://github.com/Hellycoion",
-	"affil": "Individual",
 	"expert": false
 }, {
 	"name": "Picsell Dois",
