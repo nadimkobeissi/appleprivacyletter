@@ -42183,4 +42183,9 @@ let individuals = [{
 	"url": "https://github.com/michael-land",
 	"affil": "Student",
 	"expert": false
+}, {
+	"name": "Roberto Resoli",
+	"url": "https://github.com/resoli",
+	"affil": "LinuxTrent",
+	"expert": false
 }]
