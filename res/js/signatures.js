@@ -43888,4 +43888,9 @@ let individuals = [{
 	"url": "https://github.com/Schibu73",
 	"affil": "Individual",
 	"expert": false
+}, {
+	"name": "jlb",
+	"url": "https://lists.sr.ht/~tyil/apple-privacy-letter/%3Cv9mXHQFf-thAZSr0nTaVlgf8Jfnjx5qkbH8aWGdpr0eMBL6mvVFC2sAsvfwbxxWekfVwZNO8VYme4xiCutOdk9ID-t3A-GcUqJCGYgp8MMA%3D%40protonmail.com%3E",
+	"affil": "Individual",
+	"expert": false
 }]
